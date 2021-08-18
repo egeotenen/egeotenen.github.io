@@ -122,14 +122,16 @@ Principal Investigator: Reyyan Yeniterzi, Computer Science
 
 Advisor: Cagla Aydin, Psychology
 
-Funded by The Project of Scientific and Technological Research Council of     Turkey, 1512 -Entrepreneurship Multi-phase Programme
-Role: Research Assistant, I contributed to the coding process of hate speech in social media data collected from Twitter.
+Funded by The Project of Scientific and Technological Research Council of Turkey, 1512 - Entrepreneurship Multi-phase Programme
+
+*Role:* Research Assistant, I contributed to the coding process of hate speech in social media data collected from Twitter.
 
 * Information exchange between long-term memory and working memory for adaptive behavior,   *2020- Present*	
 
 Principal Investigator: Eren Günseli, Psychology
 Funded by The Project of Scientific and Technological Research Council of Turkey, 2232 International Fellowship For Outstanding Researchers 
-Role: Research Assistant, I contributed to the coding process of the experiments and by discussing the design of the project with co-investigators.
+
+*Role:* Research Assistant, I contributed to the coding process of the experiments and by discussing the design of the project with co-investigators.
 
 Contributions to Prior Funded Research  
 ==========================================
@@ -138,7 +140,8 @@ Project of family, child, and adolescent in Turkey,                *February 202
 Principal Investigator: Sibel Kazak Berument, Psychology
 
 Funded by The Project of Scientific and Technological Research Council of Turkey, 1003- Primary Subjects R&D Funding Program  
-Role: Undergraduate Research Assistant, I contributed to the data collection part of the study by visiting high schools.
+
+*Role:* Undergraduate Research Assistant, I contributed to the data collection part of the study by visiting high schools.
 
 
 
