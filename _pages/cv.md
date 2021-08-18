@@ -33,8 +33,11 @@ Research Experience
 ======
 
 * Lab Manager, Sabanci University,					                                *2020 – Present*
+
 Culture Language and Autobiographical Memory Lab / ISTANBUL
+
 Principal Investigator: Asst. Prof. Cagla Aydin
+
     *	Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
 
 * Co-organizator of a symposium, vSARMAC,		     		   	                        *2021*
@@ -46,7 +49,9 @@ Organizator: Asst. Prof. Cagla Aydin
     *	Reaching other researchers who would like to present their studies about visual imagery in SARMAC, informing them about the process,  preparing the presentation
   
 * Project member, Summer Institute in Computational Social Sciences,    	       *2021*
+
  SICSS Istanbul / ISTANBUL
+
  Coordinator: Asst. Prof. Akin Unver
 
     * Learning how to collect social media data by web-scraping and Twitter API.
@@ -56,6 +61,7 @@ Organizator: Asst. Prof. Cagla Aydin
 * Lab Member, Sabanci University,						                                  *2020 – Present*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
+
 Principal Investigator: Dr. Eren Günseli
 
     *	Discussing current literature, presenting articles, and discussing ongoing studies to improve
@@ -63,6 +69,7 @@ Principal Investigator: Dr. Eren Günseli
 * Undergraduate Research Assistant, Middle East Technical University,        	*2018 – 2020*
 
 METU Child and Adolescent Development Laboratory / ANKARA
+
 Principal Investigator: Asst. Prof. Başak Şahin Acar
 
     * Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
@@ -72,6 +79,7 @@ Principal Investigator: Asst. Prof. Başak Şahin Acar
 * Summer Intern, Aarhus University,			  		                      		*2019*
 
 Center on Autobiographical Memory Research (CON AMORE) / AARHUS
+
 Advisor: Asst. Prof. Annette Bohn
 
     * Contributing to the postdoc project of Müge Özbek Akçay, which was a cross-cultural study between Danish-Turkish young and old generations about life story narratives and cultural life scripts effects on wellbeing
@@ -82,6 +90,7 @@ Advisor: Asst. Prof. Annette Bohn
 * Summer Intern, Virtual,							                              		*2019*
 
 Research Maze / LONDON
+
 Manager: Selda Koydemir
 
     * Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
@@ -89,6 +98,7 @@ Manager: Selda Koydemir
 * Undergraduate Research Assistant, Middle East Technical University, 	            *2019*
 
 METU Life Span Development Laboratory / ANKARA
+
 Principal Investigator: Asst. Prof. Emre Selcuk
 
     * Contributing to the doctoral project about statue quo bias in romantic relationships
