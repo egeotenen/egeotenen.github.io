@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ege Otenen"
-  avatar           : "profile.png"
+  avatar           : "ege_picture.png"
   bio              : "Ege is a MSc Psychology student at Sabanci University. She is graduated from Middle East Technical University, psychology department. She is mainly interested in autobiographical memory and the effect of individual differences such as visual imagery, spatial ability on memory. During her undergraduate years, she completed internships in several labs at METU and Aarhus University. She is enthusiastic about learning and combining different techniques (Physiological, Computational, Behavioral) in memory research."
   location         : "Istanbul / TURKEY "
   employer         : "Sabanci University"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ege-otenen-1a89b1149/?originalSubdomain=tr"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9887-5603"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
