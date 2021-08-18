@@ -85,10 +85,10 @@ author:
   bio              : "Ege is a MSc Psychology student at Sabanci University. She is graduated from Middle East Technical University, psychology department. She is mainly interested in autobiographical memory and the effect of individual differences such as visual imagery, spatial ability on memory. During her undergraduate years, she completed internships in several labs at METU and Aarhus University. She is enthusiastic about learning and combining different techniques (Physiological, Computational, Behavioral) in memory research."
   location         : "Istanbul / TURKEY "
   employer         : "Sabanci University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : 
   email            : "otenenege@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -227,16 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
+    # _talks
   - scope:
       path: ""
       type: talks
