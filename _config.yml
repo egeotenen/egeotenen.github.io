@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ege Otenen"
-  avatar           : "ege.jpg"
+  avatar           : "https://raw.githubusercontent.com/egeotenen/egeotenen.github.io/master/images/ege.jpg"
   bio              : "MSc Psychology student at Sabanci University "
   location         : "Istanbul / TURKEY "
   employer         : "Sabanci University"
