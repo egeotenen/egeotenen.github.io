@@ -4,19 +4,19 @@ main:
 #    url: /publications/
 #
   - title: "Talks"
-    url: /talks/    
+    url: https://egeotenen.github.io//talks/    
 #
 #  - title: "Teaching"
 #    url: /teaching/    
 #    
   - title: "Teaching"
-    url: /research/
+    url: https://egeotenen.github.io//research/
 #        
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://egeotenen.github.io//cv/
     
 #  - title: "Guide"
 #    url: /markdown/
