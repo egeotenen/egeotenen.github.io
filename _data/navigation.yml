@@ -1,26 +1,22 @@
 # main links links
 main:
- - title: "CV"
-    url: https://egeotenen.github.io//cv/
-   
-- title: "Publications"
-   url: https://egeotenen.github.io//publications/
-   
+#  - title: "Publications"
+#    url: /publications/
+#
   - title: "Talks"
-   url: https://egeotenen.github.io//talks/    
-
-- title: "Teaching"
-   url: https://egeotenen.github.io//teaching/    
+    url: /talks/    
+#
+#  - title: "Teaching"
+#    url: /teaching/    
+#    
+  - title: "Teaching"
+    url: /research/
+#        
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
- # - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "CV"
+    url: /cv/
     
-
-    
- # - title: "Guide"
- #   url: /markdown/
-
-
+#  - title: "Guide"
+#    url: /markdown/
