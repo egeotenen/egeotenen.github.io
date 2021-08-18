@@ -105,5 +105,5 @@ Role: Undergraduate Research Assistant, I contributed to the data collection par
 
 
 Scholarships
-======
+=========
 *Sabanci Graduate Student Full-Scholarship			 		            2020 – 2022
