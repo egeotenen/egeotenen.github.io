@@ -1,16 +1,15 @@
 # main links links
 main:
- 
  - title: "CV"
     url: https://egeotenen.github.io//cv/
-    
- - title: "Publications"
+   
+- title: "Publications"
    url: https://egeotenen.github.io//publications/
-
- - title: "Talks"
+   
+  - title: "Talks"
    url: https://egeotenen.github.io//talks/    
 
- - title: "Teaching"
+- title: "Teaching"
    url: https://egeotenen.github.io//teaching/    
     
  # - title: "Portfolio"
@@ -24,4 +23,4 @@ main:
  # - title: "Guide"
  #   url: /markdown/
 
-# main links links
+
