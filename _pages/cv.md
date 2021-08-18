@@ -43,9 +43,9 @@ Organizator: Asst. Prof. Cagla Aydin
 * Project member, Summer Institute in Computational Social Sciences	       *2021*
  SICSS Istanbul / ISTANBUL
  Coordinator: Asst. Prof. Akin Unver
-    *Learning how to collect social media data by web-scraping and Twitter API.
-    *Preprocessing data 
-    *Conducting sentiment analysis and topic modeling for the group project
+    * Learning how to collect social media data by web-scraping and Twitter API.
+    * Preprocessing data 
+    * Conducting sentiment analysis and topic modeling for the group project
 * Lab Member, Sabanci University						                                  *2020 – Present*
 Memory Attention and Cognitive Control Lab / ISTANBUL
 Principal Investigator: Dr. Eren Günseli
