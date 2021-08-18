@@ -36,7 +36,7 @@ Research Experience
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 Principal Investigator: Asst. Prof. Cagla Aydin
   *	Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
-*Co-organizator of a symposium, vSARMAC		     		   	                      *2021*
+* Co-organizator of a symposium, vSARMAC		     		   	                      *2021*
 Visual Imagery and Autobiographical Memory 
 Organizator: Asst. Prof. Cagla Aydin
   *	Reaching other researchers who would like to present their studies about visual imagery in SARMAC, informing them about the process,  preparing the presentation
