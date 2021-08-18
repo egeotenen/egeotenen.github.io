@@ -38,7 +38,7 @@ Culture Language and Autobiographical Memory Lab / ISTANBUL
 
 Principal Investigator: Asst. Prof. Cagla Aydin
 
-    *	Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
+    	Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
 
 * Co-organizator of a symposium, vSARMAC,		     		   	                        *2021*
 
@@ -46,7 +46,7 @@ Visual Imagery and Autobiographical Memory
 
 Organizator: Asst. Prof. Cagla Aydin
 
-    *	Reaching other researchers who would like to present their studies about visual imagery in SARMAC, informing them about the process,  preparing the presentation
+    	Reaching other researchers who would like to present their studies about visual imagery in SARMAC, informing them about the process,  preparing the presentation
   
 * Project member, Summer Institute in Computational Social Sciences,    	       *2021*
 
@@ -54,9 +54,9 @@ Organizator: Asst. Prof. Cagla Aydin
 
  Coordinator: Asst. Prof. Akin Unver
 
-    * Learning how to collect social media data by web-scraping and Twitter API.
-    * Preprocessing data 
-    * Conducting sentiment analysis and topic modeling for the group project
+    Learning how to collect social media data by web-scraping and Twitter API.
+     Preprocessing data 
+     Conducting sentiment analysis and topic modeling for the group project
 
 * Lab Member, Sabanci University,						                                  *2020 – Present*
 
@@ -64,7 +64,7 @@ Memory Attention and Cognitive Control Lab / ISTANBUL
 
 Principal Investigator: Dr. Eren Günseli
 
-    *	Discussing current literature, presenting articles, and discussing ongoing studies to improve
+    	Discussing current literature, presenting articles, and discussing ongoing studies to improve
 
 * Undergraduate Research Assistant, Middle East Technical University,        	*2018 – 2020*
 
@@ -72,9 +72,9 @@ METU Child and Adolescent Development Laboratory / ANKARA
 
 Principal Investigator: Asst. Prof. Başak Şahin Acar
 
-    * Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
-    * Contributing to the doctoral project, which was about early motherhood memories, by collecting data with interviewing mothers and   transcribing the audio records
-    * Contributing to the doctoral project about maternal reminiscing in adolescents and autobiographical memory functions by collecting data via home visits, entering the data to SPSS, and transcribing the audio records
+    Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
+    Contributing to the doctoral project, which was about early motherhood memories, by collecting data with interviewing mothers and   ranscribing the audio records
+    Contributing to the doctoral project about maternal reminiscing in adolescents and autobiographical memory functions by collecting data via home visits, entering the data to SPSS, and transcribing the audio records
 
 * Summer Intern, Aarhus University,			  		                      		*2019*
 
@@ -82,10 +82,10 @@ Center on Autobiographical Memory Research (CON AMORE) / AARHUS
 
 Advisor: Asst. Prof. Annette Bohn
 
-    * Contributing to the postdoc project of Müge Özbek Akçay, which was a cross-cultural study between Danish-Turkish young and old generations about life story narratives and cultural life scripts effects on wellbeing
-    * Coding the life scripts, the number of life story events, and the emotional valence of these events for the Turkish sample.
-    * Attending the cognitive psychology courses provided by Müge Özbek Akçay and Sinue Salgado
-    * Attending the culture lab meetings with Annette Bohn and lunch discussions in which guest researchers present their research and findings
+    Contributing to the postdoc project of Müge Özbek Akçay, which was a cross-cultural study between Danish-Turkish young and old generations about life story narratives and cultural life scripts effects on wellbeing
+    Coding the life scripts, the number of life story events, and the emotional valence of these events for the Turkish sample.
+    Attending the cognitive psychology courses provided by Müge Özbek Akçay and Sinue Salgado
+    Attending the culture lab meetings with Annette Bohn and lunch discussions in which guest researchers present their research and findings
 
 * Summer Intern, Virtual,							                              		*2019*
 
@@ -93,7 +93,7 @@ Research Maze / LONDON
 
 Manager: Selda Koydemir
 
-    * Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+    Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
 
 * Undergraduate Research Assistant, Middle East Technical University, 	            *2019*
 
@@ -101,17 +101,17 @@ METU Life Span Development Laboratory / ANKARA
 
 Principal Investigator: Asst. Prof. Emre Selcuk
 
-    * Contributing to the doctoral project about statue quo bias in romantic relationships
-    * Rating the participants’ responses in terms of qualitative criteria with a second coder
-    * Collecting online data
+    Contributing to the doctoral project about statue quo bias in romantic relationships
+    Rating the participants’ responses in terms of qualitative criteria with a second coder
+    Collecting online data
 
 * Undergraduate Research Assistant, Middle East Technical University,           	 *2018 – 2019*
 
 Middle East Technical University, Psychology Department / ANKARA
 Advisor: Prof. Sibel Kazak Berument
 
-    * Contributing to the doctoral project, which was a longitudinal study about the developmental processes of adolescents
-    * Collecting the data through visiting high schools and coding the data on SPSS
+    Contributing to the doctoral project, which was a longitudinal study about the developmental processes of adolescents
+    Collecting the data through visiting high schools and coding the data on SPSS
 
 Contributions to Ongoing Funded Research
 ==========================================  		
