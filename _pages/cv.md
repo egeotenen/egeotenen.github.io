@@ -54,17 +54,17 @@ Principal Investigator: Dr. Eren Günseli
 * Undergraduate Research Assistant, Middle East Technical University 	*2018 – 2020*
 METU Child and Adolescent Development Laboratory / ANKARA
 Principal Investigator: Asst. Prof. Başak Şahin Acar
-  *Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
-  *Contributing to the doctoral project, which was about early motherhood memories, by collecting data with interviewing mothers and   transcribing the audio records
-  *Contributing to the doctoral project about maternal reminiscing in adolescents and autobiographical memory functions by collecting data via home visits, entering the data to SPSS, and transcribing the audio records
+  * Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
+  * Contributing to the doctoral project, which was about early motherhood memories, by collecting data with interviewing mothers and   transcribing the audio records
+  * Contributing to the doctoral project about maternal reminiscing in adolescents and autobiographical memory functions by collecting data via home visits, entering the data to SPSS, and transcribing the audio records
 
-*Summer Intern, Aarhus University			  		                      		*2019*
+* Summer Intern, Aarhus University			  		                      		*2019*
 Center on Autobiographical Memory Research (CON AMORE) / AARHUS
 Advisor: Asst. Prof. Annette Bohn
-  *Contributing to the postdoc project of Müge Özbek Akçay, which was a cross-cultural study between Danish-Turkish young and old generations about life story narratives and cultural life scripts effects on wellbeing
-  *Coding the life scripts, the number of life story events, and the emotional valence of these events for the Turkish sample.
-  *Attending the cognitive psychology courses provided by Müge Özbek Akçay and Sinue Salgado
-  *Attending the culture lab meetings with Annette Bohn and lunch discussions in which guest researchers present their research and findings
+  * Contributing to the postdoc project of Müge Özbek Akçay, which was a cross-cultural study between Danish-Turkish young and old generations about life story narratives and cultural life scripts effects on wellbeing
+  * Coding the life scripts, the number of life story events, and the emotional valence of these events for the Turkish sample.
+  * Attending the cognitive psychology courses provided by Müge Özbek Akçay and Sinue Salgado
+  * Attending the culture lab meetings with Annette Bohn and lunch discussions in which guest researchers present their research and findings
 
 * Summer Intern, Virtual							                              		*2019*
 Research Maze / LONDON
