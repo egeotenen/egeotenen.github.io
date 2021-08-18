@@ -32,7 +32,7 @@ R, Python, SPSS, Matlab, EEG Analysis
 Research Experience
 ======
 
-* Lab Manager, Sabanci University,					                                *2020 – Present*
+** Lab Manager, Sabanci University,					                                *2020 – Present*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
@@ -40,7 +40,7 @@ Principal Investigator: Asst. Prof. Cagla Aydin
 
 Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
 
-* Co-organizator of a symposium, vSARMAC,		     		   	                        *2021*
+** Co-organizator of a symposium, vSARMAC,		     		   	                        *2021*
 
 Visual Imagery and Autobiographical Memory 
 
