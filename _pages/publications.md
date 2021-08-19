@@ -1,9 +1,28 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /research/
 author_profile: true
 ---
+Graduate Teaching Assistant, Sabanci University			            2020 – 2021
+===============================================================================
+*Course:* Memory
+*Responsibilities:*  Uploading the course material, reading assignments and exams, helping the exam preparation
+
+*Course:* Experimental Psychology
+*Responsibilities:* Assisting weekly lab hours, helping the research groups to develop their research, design their projects and analyze their data, grading the assignments
+
+*Course:* Introduction to Psychology
+*Responsibilities:* Preparing materials for lab hours, holding office hours after exams, preparing online exams, grading assignments
+
+Guest Lecturer, Sabanci University					            2020 – 2021
+===========================================================================================
+*Course:* Memory
+*Responsibilities:*Invited to teach one lecture on semantic memory to undergraduate students. Developed and delivered 40 minutes offline lecture video.
+Guest Lecturer, Sabanci University						 2020 – 2021
+*Course:* Experimental Psychology
+*Responsibilities:* Developed and delivered 15 minutes-long lecture about how to use G*Power.
+ 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
