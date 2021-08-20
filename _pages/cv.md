@@ -40,6 +40,7 @@ Principal Investigator: Asst. Prof. Cagla Aydin
 
 Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
 
+
 * Co-organizator of a symposium, vSARMAC,		    		   	                        *2021*
 
 Visual Imagery and Autobiographical Memory 
@@ -48,6 +49,7 @@ Organizator: Asst. Prof. Cagla Aydin
 
 Reaching other researchers who would like to present their studies about visual imagery in SARMAC, informing them about the process,  preparing the presentation
   
+
 * Project member, Summer Institute in Computational Social Sciences,                      *2021*
 
 SICSS Istanbul / ISTANBUL
@@ -58,6 +60,7 @@ Learning how to collect social media data by web-scraping and Twitter API.
 Preprocessing data 
 Conducting sentiment analysis and topic modeling for the group project
 
+
 * Lab Member, Sabanci University,						                                  *2020 – Present*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
@@ -65,6 +68,7 @@ Memory Attention and Cognitive Control Lab / ISTANBUL
 Principal Investigator: Dr. Eren Günseli
 
 Discussing current literature, presenting articles, and discussing ongoing studies to improve
+
 
 * Undergraduate Research Assistant, Middle East Technical University,        	*2018 – 2020*
 
@@ -75,6 +79,7 @@ Principal Investigator: Asst. Prof. Başak Şahin Acar
  * Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
  * Contributing to the doctoral project, which was about early motherhood memories, by collecting data with interviewing mothers and   transcribing the audio records
  * Contributing to the doctoral project about maternal reminiscing in adolescents and autobiographical memory functions by collecting data via home visits, entering the data to SPSS, and transcribing the audio records
+
 
 * Summer Intern, Aarhus University,			  		                      		*2019*
 
@@ -87,6 +92,8 @@ Advisor: Asst. Prof. Annette Bohn
   * Attending the cognitive psychology courses provided by Müge Özbek Akçay and Sinue Salgado
   * Attending the culture lab meetings with Annette Bohn and lunch discussions in which guest researchers present their research and findings
 
+
+
 * Summer Intern, Virtual,							                              		*2019*
 
 Research Maze / LONDON
@@ -94,6 +101,8 @@ Research Maze / LONDON
 Manager: Selda Koydemir
 
   * Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+
+
 
 * Undergraduate Research Assistant, Middle East Technical University, 	            *2019*
 
@@ -105,6 +114,8 @@ Principal Investigator: Asst. Prof. Emre Selcuk
    Rating the participants’ responses in terms of qualitative criteria with a second coder
    Collecting online data
 
+
+
 * Undergraduate Research Assistant, Middle East Technical University,           	 *2018 – 2019*
 
 Middle East Technical University, Psychology Department / ANKARA
@@ -112,6 +123,7 @@ Advisor: Prof. Sibel Kazak Berument
 
   Contributing to the doctoral project, which was a longitudinal study about the developmental processes of adolescents
    Collecting the data through visiting high schools and coding the data on SPSS
+
 
 Contributions to Ongoing Funded Research
 ==========================================  		
@@ -148,3 +160,65 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 Scholarships
 ======
 * Sabanci Graduate Student Full-Scholarship,			 		            *2020 – 2022*
+
+Publications
+================
+
+Otenen, E., Tanis, S., B., & Aydin, C. “Autobiographical Interview: Assessment of Episodic and Semantic Details in Memories” (under revision)
+
+Teaching Experience
+==========================
+
+* Graduate Teaching Assistant, Sabanci University,  			            2020 – 2021
+
+*Course: Memory*
+
+Responsibilities:*  Uploading the course material, reading assignments and exams, helping the exam preparation
+
+
+Graduate Teaching Assistant, Sabanci University,            				 2020 – 2021
+*Course: Experimental Psychology*
+
+Responsibilities: Assisting weekly lab hours, helping the research groups to develop their research, design their projects and analyze their data, grading the assignments
+
+
+Graduate Teaching Assistant, Sabanci University,			            2020 – 2021
+
+*Course: Introduction to Psychology*
+
+Responsibilities: Preparing materials for lab hours, holding office hours after exams, preparing online exams, grading assignments
+
+
+Guest Lecturer, Sabanci University,       					            2020 – 2021
+
+*Course: Memory*
+
+Responsibilities: Invited to teach one lecture on semantic memory to undergraduate students. Developed and delivered 40 minutes offline lecture video.
+
+Guest Lecturer, Sabanci University,   						 2020 – 2021
+
+*Course: Experimental Psychology*
+
+Responsibilities: Developed and delivered 15 minutes-long lecture about how to use G*Power.
+
+
+PRESENTATIONS
+===========================
+
+Poster Presentations
+
+1.	Otenen, E. & Aydin, C. “Comparison of Face-to-Face and Online Memories: An Exploratory Study” vSARMAC 2021.p
+
+2.	Otenen, E., Aydin, C., Wasti, S., A., & Yegin, A. “Functions of Positive and Negative Work Memories and Their Relations to Self-Construal” vSARMAC 2021
+
+
+SEMINARS & CERTIFICATES
+======================
+1. Applied Data Science I: Scientific Computing & Python,				2021
+
+Worldquant University
+
+2. “Preparing Future Faculty” for Turkey Project	- Teaching Seminar,			2021
+
+Sabanci University, Abdullah Gul University, U.S. Embassy
+		
