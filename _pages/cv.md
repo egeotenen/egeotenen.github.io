@@ -173,7 +173,7 @@ Teaching Experience
 
 *Course: Memory*
 
-Responsibilities:*  Uploading the course material, reading assignments and exams, helping the exam preparation
+Responsibilities:  Uploading the course material, reading assignments and exams, helping the exam preparation
 
 
 Graduate Teaching Assistant, Sabanci University,            				 2020 – 2021
