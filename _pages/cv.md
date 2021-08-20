@@ -207,9 +207,9 @@ PRESENTATIONS
 
 Poster Presentations
 
-1.	Otenen, E. & Aydin, C. “Comparison of Face-to-Face and Online Memories: An Exploratory Study” vSARMAC 2021.p
+1.	Otenen, E. & Aydin, C. “Comparison of Face-to-Face and Online Memories: An Exploratory Study”, vSARMAC 2021.
 
-2.	Otenen, E., Aydin, C., Wasti, S., A., & Yegin, A. “Functions of Positive and Negative Work Memories and Their Relations to Self-Construal” vSARMAC 2021
+2.	Otenen, E., Aydin, C., Wasti, S., A., & Yegin, A. “Functions of Positive and Negative Work Memories and Their Relations to Self-Construal”, vSARMAC 2021
 
 
 SEMINARS & CERTIFICATES
