@@ -23,5 +23,5 @@ I received my undergraduate degree in psychology from Middle East Technical Univ
 * Autobiographical Memory
 * Individual Differences
 * Visual Imagery
-* Misinformation 
+* Spatial Ability
 * Computational Social Sciences
