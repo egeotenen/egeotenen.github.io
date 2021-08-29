@@ -15,7 +15,7 @@ Sabanci University
 Master’s of Science in Cognitive Psychology  
 
 1st Year, CGPA: 4 / 4
-Advisor: Asst.Prof. Cagla Aydin
+Advisor: Asst. Prof. Cagla Aydin
 
 Middle East Technical University, 2020
 
@@ -41,6 +41,7 @@ Principal Investigator: Asst. Prof. Cagla Aydin
 Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects
 
 
+
 * Co-organizator of a symposium, vSARMAC,		    		   	                        *2021*
 
 Visual Imagery and Autobiographical Memory 
@@ -49,6 +50,7 @@ Organizator: Asst. Prof. Cagla Aydin
 
 Reaching other researchers who would like to present their studies about visual imagery in SARMAC, informing them about the process,  preparing the presentation
   
+
 
 * Project member, Summer Institute in Computational Social Sciences,                      *2021*
 
@@ -61,6 +63,7 @@ Preprocessing data
 Conducting sentiment analysis and topic modeling for the group project
 
 
+
 * Lab Member, Sabanci University,						                                  *2020 – Present*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
@@ -68,6 +71,7 @@ Memory Attention and Cognitive Control Lab / ISTANBUL
 Principal Investigator: Dr. Eren Günseli
 
 Discussing current literature, presenting articles, and discussing ongoing studies to improve
+
 
 
 * Undergraduate Research Assistant, Middle East Technical University,        	*2018 – 2020*
@@ -79,6 +83,7 @@ Principal Investigator: Asst. Prof. Başak Şahin Acar
  * Contributing to the research project about life stories of young adults by doing transcriptions of audio records of the interviews
  * Contributing to the doctoral project, which was about early motherhood memories, by collecting data with interviewing mothers and   transcribing the audio records
  * Contributing to the doctoral project about maternal reminiscing in adolescents and autobiographical memory functions by collecting data via home visits, entering the data to SPSS, and transcribing the audio records
+
 
 
 * Summer Intern, Aarhus University,			  		                      		*2019*
@@ -94,6 +99,7 @@ Advisor: Asst. Prof. Annette Bohn
 
 
 
+
 * Summer Intern, Virtual,							                              		*2019*
 
 Research Maze / LONDON
@@ -101,6 +107,7 @@ Research Maze / LONDON
 Manager: Selda Koydemir
 
   * Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+
 
 
 
@@ -116,6 +123,7 @@ Principal Investigator: Asst. Prof. Emre Selcuk
 
 
 
+
 * Undergraduate Research Assistant, Middle East Technical University,           	 *2018 – 2019*
 
 Middle East Technical University, Psychology Department / ANKARA
@@ -123,6 +131,7 @@ Advisor: Prof. Sibel Kazak Berument
 
   Contributing to the doctoral project, which was a longitudinal study about the developmental processes of adolescents
    Collecting the data through visiting high schools and coding the data on SPSS
+
 
 
 Contributions to Ongoing Funded Research
@@ -138,12 +147,14 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 
 *Role:* Research Assistant, I contributed to the coding process of hate speech in social media data collected from Twitter.
 
+
 * Information exchange between long-term memory and working memory for adaptive behavior,   *2020- Present*	
 
 Principal Investigator: Eren Günseli, Psychology
 Funded by The Project of Scientific and Technological Research Council of Turkey, 2232 International Fellowship For Outstanding Researchers 
 
 *Role:* Research Assistant, I contributed to the coding process of the experiments and by discussing the design of the project with co-investigators.
+
 
 Contributions to Prior Funded Research  
 ==========================================
