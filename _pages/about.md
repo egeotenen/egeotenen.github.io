@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, all this is my personal webpage! I'm currently a MSc student at [Sabanci University](https://www.sabanciuniv.edu/). My research interests lie in autobiographical memory, visual imagery, spatial ability and computational social science. I'm working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. 
+Hi all, this is my personal webpage! I'm currently a MSc student at [Sabanci University](https://www.sabanciuniv.edu/). My research interests lie in autobiographical memory, visual imagery, spatial ability and computational social science. I'm working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. 
 I am also a current member of the [MACC Lab](https://www.gunselilab.com/) under the supervision of [Dr. Eren Gunseli](http://myweb.sabanciuniv.edu/erengunseli/) which mainly investigates attention and memory. 
 And I am trying to learn techniques of computational social science under the supervision of [Dr. Onur Varol](http://www.onurvarol.com/) at the [Varol Lab](http://varollab.com/).
 
