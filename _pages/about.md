@@ -21,7 +21,7 @@ I received my BSc in psychology from Middle East Technical University. During my
 
 # Research Interests 
 * Autobiographical Memory
-* Individual Differences
-* Visual Imagery
-* Spatial Ability
+* Individual Differences (Culture, Visual imagery, Spatial ability, Cognitive skills)
 * Computational Social Sciences
+* Misinformation
+* Digitalization
