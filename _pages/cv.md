@@ -44,6 +44,7 @@ SPSS, and R
 
 
 
+
 * Project member, Summer Institute in Computational Social Sciences,                      *2021*
 
 SICSS Istanbul / ISTANBUL
@@ -53,6 +54,7 @@ Coordinator: Asst. Prof. Akin Unver
 Collecting social media data by web-scraping and Twitter API, preprocessing data, conducting
 sentiment analysis and topic modeling in R, and Python for the group project about vaccine
 perception in Turkey, and examining the usage of pronouns in anti-vaxxers’ narratives
+
 
 
 
@@ -67,6 +69,7 @@ analysis, bot activity in Python, network visualization in Gephi, meeting with f
 organization (Teyit.org, a signer of IFCN) for the ongoing project about anti-vax movement
 
 
+
 * Lab Member, Sabanci University,						                                  *2020 – Present*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
@@ -74,6 +77,7 @@ Memory Attention and Cognitive Control Lab / ISTANBUL
 Principal Investigator: Dr. Eren Günseli
 
 Discussing current literature, presenting articles, and discussing ongoing studies to improve
+
 
 
 
@@ -89,6 +93,7 @@ performance
 
 
 
+
 * Undergraduate Research Assistant, Middle East Technical University,        	*2018 – 2020*
 
 METU Child and Adolescent Development Laboratory / ANKARA
@@ -99,6 +104,7 @@ Contributing to the several research projects by collecting life stories from yo
 interviewing women about their early motherhood memories, and collecting data for a study that
 investigates maternal reminiscing in adolescents and autobiographical memory functions via home
 visits, entering the data to SPSS and transcribing the audio records
+
 
 
 
@@ -120,13 +126,15 @@ guest researchers present their research and findings
 
 
 
+
 * Summer Intern, Virtual,							                              		*2019*
 
 Research Maze / LONDON
 
 Manager: Selda Koydemir
 
-  * Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+ Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+
 
 
 
@@ -138,6 +146,7 @@ METU Life Span Development Laboratory / ANKARA
 Principal Investigator: Asst. Prof. Emre Selcuk
 
   Rating the participants’ responses in terms of qualitative criteria, contributing to the a project about statue quo bias in romantic relationships by scoring the narratives
+
 
 
 
@@ -234,26 +243,26 @@ Teaching Experience
 Responsibilities:  Uploading the course material, reading assignments and exams, helping the exam preparation
 
 
-Graduate Teaching Assistant, Sabanci University,            				 2020 – 2021
+* Graduate Teaching Assistant, Sabanci University,            				 2020 – 2021
 *Course: Experimental Psychology*
 
 Responsibilities: Assisting weekly lab hours, helping the research groups to develop their research, design their projects and analyze their data, grading the assignments
 
 
-Graduate Teaching Assistant, Sabanci University,			            2020 – 2021
+* Graduate Teaching Assistant, Sabanci University,			            2020 – 2021
 
 *Course: Introduction to Psychology*
 
 Responsibilities: Preparing materials for lab hours, holding office hours after exams, preparing online exams, grading assignments
 
 
-Guest Lecturer, Sabanci University,       					            2020 – 2021
+* Guest Lecturer, Sabanci University,       					            2020 – 2021
 
 *Course: Memory*
 
 Responsibilities: Invited to teach one lecture on semantic memory to undergraduate students. Developed and delivered 40 minutes offline lecture video.
 
-Guest Lecturer, Sabanci University,   						 2020 – 2021
+* Guest Lecturer, Sabanci University,   						 2020 – 2021
 
 *Course: Experimental Psychology*
 
