@@ -14,7 +14,7 @@ Education
 Sabanci University
 Master’s of Science in Cognitive Psychology  
 
-1st Year, CGPA: **4 / 4**
+2nd Year, CGPA: **4 / 4**
 Advisor: Asst. Prof. Cagla Aydin
 
 Middle East Technical University, 2020
