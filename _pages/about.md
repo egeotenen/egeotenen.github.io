@@ -25,3 +25,4 @@ I received my BSc in psychology from Middle East Technical University. During my
 * Computational Social Sciences
 * Misinformation
 * Digitalization
+
