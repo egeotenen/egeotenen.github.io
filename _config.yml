@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ege Otenen's Personal Webpage"
 title_separator          : "-"
 name                     : &name "Ege Otenen"
-description              : &description "Memory Researcher, MSc Cognitive Psychology"
+description              : &description "explorer of cognition"
 url                      : http://www.egeotenen.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "egeotenen/egeotenen.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ege Otenen"
   avatar           : "https://raw.githubusercontent.com/egeotenen/egeotenen.github.io/master/images/ege.jpg"
-  bio              : "MSc Psychology student at Sabanci University "
-  location         : "Istanbul / TURKEY "
-  employer         : "Sabanci University"
+  bio              : "Ph.D. CogSci & Informatics student at Indiana University "
+  location         : "Bloomington IN / USA "
+  employer         : "Indiana University"
   pubmed           :
   googlescholar    : 
   email            : "otenenege@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ege-otenen-1a89b1149"
+  linkedin         : "https://www.linkedin.com/in/ege-otenen-1a89b1149/"
   orcid            : "https://orcid.org/0000-0001-9887-5603"
   pinterest        :
   soundcloud       :
