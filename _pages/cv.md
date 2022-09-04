@@ -13,26 +13,25 @@ Education
 ========
 Sabanci University
 Master’s of Science in Cognitive Psychology  
-
-2nd Year, CGPA: **4 / 4**
+CGPA: **4 / 4**
 Advisor: Asst. Prof. Cagla Aydin
 
-Middle East Technical University, 2020
 
+Middle East Technical University, 2020
 Faculty of Art & Sciences, Department of Psychology
- 4th Year, CGPA: **3,75 / 4**
+CGPA: **3,75 / 4**
 
 Skills
 ======
 
-R, Python, SPSS, Matlab, EEG Analysis
+R, Python, SPSS, EEG Analysis
 
 
   
 Research Experience
 ======
 
-* Lab Coordinator, Sabanci University,				                                *2020 – Present*
+* Lab Coordinator, Sabanci University,				                                *2020 – 2022*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
@@ -58,9 +57,9 @@ perception in Turkey, and examining the usage of pronouns in anti-vaxxers’ nar
 
 
 
-* Lab Member, Sabanci University                                                *2021 - Present*
+* Lab Member, Sabanci University                                                *2021 - 2022*
 
-Viral Lab
+VIRAL Lab
 
 Principal Investigator: Dr. Onur Varol
 
@@ -70,7 +69,7 @@ organization (Teyit.org, a signer of IFCN) for the ongoing project about anti-va
 
 
 
-* Lab Member, Sabanci University,						                                  *2020 – Present*
+* Lab Member, Sabanci University,						                                  *2020 – 2022*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
 
@@ -164,7 +163,7 @@ processes of adolescents’ health behaviors, by collecting data through visitin
 Contributions to Ongoing Funded Research
 ==========================================  		
 
-* TOXICFREE: Artificial Intelligence Assisted Parental Control Application,       *2020- Present*   
+* TOXICFREE: Artificial Intelligence Assisted Parental Control Application,       *2020- 2021*   
 
 Principal Investigator: Reyyan Yeniterzi, Computer Science
 
@@ -175,7 +174,7 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 *Role:* Research Assistant, I contributed to the coding process of hate speech in social media data collected from Twitter.
 
 
-* Information exchange between long-term memory and working memory for adaptive behavior,   *2020- Present*	
+* Information exchange between long-term memory and working memory for adaptive behavior,   *2020- 2022*	
 
 Principal Investigator: Eren Günseli, Psychology
 Funded by The Project of Scientific and Technological Research Council of Turkey, 2232 International Fellowship For Outstanding Researchers 
@@ -198,19 +197,20 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 Scholarships
 ======
 * Sabanci Graduate Student Full-Scholarship,			 		            *2020 – 2022*
+* Indiana University Graduate Student Fellowship,                 *2022 – 2023*
 
 
 
 Manuscripts In Preparation
-============================
-1. Aydin, C., Otenen, E., & Tanis, S. B. (in prep). Visual imagery and shifting memory perspective.
-*Manuscript in preparation.*
-2. Seckin, O. C., Atalay, A., Duygu, U., Otenen, E., & Varol, O. (in prep) Political Actors, Audiences and Mechanisms Driving Disinformation in Turkey: Evidence from the Covid-19 Anti-Vaccine Propaganda on Twitter. *Manuscript in preparation.*
+===========================
+1. Seckin, O. C., Atalay, A., Duygu, U., Otenen, E., & Varol, O. (in prep) Political Actors, Audiences and Mechanisms Driving Disinformation in Turkey: Evidence from the Covid-19 Anti-Vaccine Propaganda on Twitter. *Manuscript in preparation.*
 
 Manuscripts Submitted For Publication
 =======================================
 1. Otenen, E., Tanis, S. B., & Aydin, C. (under review) Autobiographical Interview: Assessment of
 Episodic and Semantic Details in Memories. *Manuscript submitted for publication*
+2. Aydin, C., Otenen, E., & Tanis, S. B. (in prep). Visual imagery and shifting memory perspective.
+*Manuscript in preparation.*
 
 Other Publications
 =====================
@@ -229,9 +229,29 @@ Presentations
 4. Aydin, C. & Otenen, E. (2021). *Visual Imagery and Memory Perspective.* Talk presented at the
 virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).
 
-5. Otenen, E., Tanis, S. B., & Aydin, C. (2021). *Examination of Semantic Details from Memory Perspective.* Poster presented at the virtual meeting of Experimental-Cognitive Psychology Symposium.
+5. Otenen, E., Tanis, S. B., & Aydin, C. (2021, September). *Examination of Semantic Details from
+Memory Perspective.* Poster presented at the virtual meeting of Experimental-Cognitive Psychology
+Symposium.
 
-6. Tanis, S. B., Otenen, E., Aslan-Sisman, Z., Aydin, C., & Goksun, T. (2021). *Gesture Use in Autobiographical Remembering.* Poster presented at the virtual meeting of Harvard Women in Psychology’s Annual Trends in Psychology Summit (TiPS).
+6. Tanis, S. B., Otenen, E., Aslan-Sisman, Z., Aydin, C., & Goksun, T. (2021, November). *Gesture
+Use in Autobiographical Remembering.* Poster presented at the virtual meeting of Harvard Women in
+Psychology’s Annual Trends in Psychology Summit (TiPS).
+
+7. Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., Yilmaz, M. C., & Varol, O. (2021, February). *Vaccine
+Disinformation in Turkey.* Talk presented at the virtual meeting of Bilgi University, The Infodemic
+and Information Disorders in the Post-Truth Age, Graduate Student Conference.
+
+8. Otenen, E. & Kanero, J., (2022, May). *Locating past and future: The Influence of Spatial Ability on
+Time Representation.* Poster presented at the virtual meeting of International Symposium on Brain
+and Cognitive Science (ISBCS).
+
+9. Tanis, S. B., Senturk, Y. D., Otenen, E., Aydin, C., & Goksun, T. (2022, May). *The Role of Gestures
+in Autobiographical Memory.* Poster presented at the virtual meeting of International Symposium on
+Brain and Cognitive Science (ISBCS).
+
+10. Otenen, E. & Kanero, J., (2022, July). *Locating past and future: The Influence of Spatial Ability on
+Time Representation.* Poster presented at the virtual meeting of Cognitive Science Annual Conference
+2022
 
 Teaching Experience
 ======================
@@ -243,7 +263,7 @@ Teaching Experience
 Responsibilities:  Uploading the course material, reading assignments and exams, helping the exam preparation
 
 
-* Graduate Teaching Assistant, Sabanci University,            				 2020 – 2021
+* Graduate Teaching Assistant, Sabanci University,            				 2020 – 2022
 *Course: Experimental Psychology*
 
 Responsibilities: Assisting weekly lab hours, helping the research groups to develop their research, design their projects and analyze their data, grading the assignments
