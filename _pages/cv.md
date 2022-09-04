@@ -13,12 +13,16 @@ Education
 ========
 Sabanci University
 Master’s of Science in Cognitive Psychology  
+
 CGPA: **4 / 4**
+
 Advisor: Asst. Prof. Cagla Aydin
 
 
 Middle East Technical University, 2020
+
 Faculty of Art & Sciences, Department of Psychology
+
 CGPA: **3,75 / 4**
 
 Skills
