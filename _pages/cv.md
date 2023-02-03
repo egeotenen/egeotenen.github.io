@@ -47,6 +47,8 @@ coding narratives, teaching the coding scheme to trainees, preparing and analysi
 SPSS, and R
 
 
+
+
 **Project member, Summer Institute in Computational Social Sciences**                      *2021*
 
 SICSS Istanbul / ISTANBUL
@@ -56,6 +58,8 @@ Coordinator: Asst. Prof. Akin Unver
 Collecting social media data by web-scraping and Twitter API, preprocessing data, conducting
 sentiment analysis and topic modeling in R, and Python for the group project about vaccine
 perception in Turkey, and examining the usage of pronouns in anti-vaxxers’ narratives
+
+
 
 
 **Lab Member, Sabanci University**                                                *2021 - 2022*
@@ -69,6 +73,8 @@ analysis, bot activity in Python, network visualization in Gephi, meeting with f
 organization (Teyit.org, a signer of IFCN) for the ongoing project about anti-vax movement
 
 
+
+
 **Lab Member, Sabanci University**						                                  *2020 – 2022*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
@@ -76,6 +82,8 @@ Memory Attention and Cognitive Control Lab / ISTANBUL
 Principal Investigator: Dr. Eren Günseli
 
 Discussing current literature, presenting articles, and discussing ongoing studies to improve
+
+
 
 
 **Researcher, Sabanci University **                                             *2021 - Present*
@@ -87,6 +95,8 @@ Advisor: Dr. Junko Kanero
 Developing a study in Labvanced, and collecting online data for the project which aims to
 interrogate the relationship between spatial ability, mental timeline congruence, and memory
 performance
+
+
 
 
 **Undergraduate Research Assistant, Middle East Technical University**       	*2018 – 2020*
@@ -154,6 +164,13 @@ processes of adolescents’ health behaviors, by collecting data through visitin
 
 
 
+
+
+
+
+
+
+
 Contributions to Ongoing Funded Research
 ==========================================  		
 
@@ -176,6 +193,9 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 *Role:* Research Assistant, I contributed to the coding process of the experiments and by discussing the design of the project with co-investigators.
 
 
+
+
+
 Contributions to Prior Funded Research  
 ==========================================
 Project of family, child, and adolescent in Turkey,                *February 2020*
@@ -188,10 +208,23 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 
 
 
+
+
 Scholarships
 ===================
 * Sabanci Graduate Student Full-Scholarship,			 		            *2020 – 2022*
 * Indiana University Graduate Student Fellowship,                 *2022 – 2023*
+
+
+
+
+
+
+
+
+
+
+
 
 
 Manuscripts
@@ -200,6 +233,8 @@ Manuscripts
 {Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on Time Representation. *Cognitive Science Annual Conference 2022.*
 
 {Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2022). The Role of Gestures in Autobiographical Memory. *Plos ONE*
+
+
 
 
 Manuscripts In Preparation
@@ -212,12 +247,16 @@ Otenen E. & Aydin, C., (in prep). If You Can Rotate You Can Remember: The Role o
 Seckin, O. C., Atalay, A., Duygu, U., Otenen, E., & Varol, O. (in prep) Political Actors, Audiences and Mechanisms Driving Disinformation in Turkey: Evidence from the Covid-19 Anti-Vaccine Propaganda on Twitter. *Manuscript in preparation.*
 
 
+
+
 Manuscripts Submitted For Publication
 =======================================
 Otenen E. & Aydin, C., (2022). The Role of Scene Recall Imagery and Visual Imagery in the Recall of Emotional Autobiographical Memories. *Manuscript is presented as master's thesis.*
 
 Otenen, E., Tanis, S. B., & Aydin, C. (under review) Autobiographical Interview: Assessment of
 Episodic and Semantic Details in Memories. *Manuscript submitted for publication*
+
+
 
 
 Other Publications
@@ -228,8 +267,10 @@ Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., & Varol, O. (2021). Disinforma
 Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., & Varol, O. (2021). Perception of Covid-19 Vaccines Through Media and Society. *Teyit.org.*
 
 
+
+
 Presentations & Posters
-================
+========================
 
 Tanis, S.B., Otenen, E., Senturk, Y., D., Aydin, C. (accepted). Exploring the Differences in Oral and Written Autobiographical Narratives: Episodic Specificity, Coherence, and Phenomenology. *International Convention of Psychological Science (ICPS).*
 
@@ -267,6 +308,8 @@ Disinformation in Turkey. *Talk presented at the virtual meeting of Bilgi Univer
 and Information Disorders in the Post-Truth Age, Graduate Student Conference.*
 
 
+
+
 Teaching Experience
 ======================
 
@@ -275,6 +318,7 @@ Teaching Experience
 Courses: Introduction to Psychology, Memory, Experimental Psychology*
 
 Responsibilities: Preparing materials for lab hours,helping the research groups to develop their research, design their projects and analyze their data.   						
+
 
 
 
