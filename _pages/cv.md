@@ -29,7 +29,9 @@ Skills
 ======
 
 Languages: SPSS, Python, R, Jamovi, Labvanced
+
 Developer Tools: Git, VS Code, Unix
+
 Qualitative Research Tools: ELAN, Taguette, Qualtrics, MS Office
 
 
