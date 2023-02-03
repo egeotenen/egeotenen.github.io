@@ -28,14 +28,15 @@ CGPA: **3,75 / 4**
 Skills
 ======
 
-R, Python, SPSS, EEG Analysis
+Languages: SPSS, Python, R, Jamovi, Labvanced
+Developer Tools: Git, VS Code, Unix
+Qualitative Research Tools: ELAN, Taguette, Qualtrics, MS Office
 
 
   
 Research Experience
-======
-
-* Lab Coordinator, Sabanci University,				                                *2020 – 2022*
+==========================
+**Lab Coordinator, Sabanci University**				                                *2020 – 2022*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
@@ -46,9 +47,7 @@ coding narratives, teaching the coding scheme to trainees, preparing and analysi
 SPSS, and R
 
 
-
-
-* Project member, Summer Institute in Computational Social Sciences,                      *2021*
+**Project member, Summer Institute in Computational Social Sciences**                      *2021*
 
 SICSS Istanbul / ISTANBUL
 
@@ -59,9 +58,7 @@ sentiment analysis and topic modeling in R, and Python for the group project abo
 perception in Turkey, and examining the usage of pronouns in anti-vaxxers’ narratives
 
 
-
-
-* Lab Member, Sabanci University                                                *2021 - 2022*
+**Lab Member, Sabanci University**                                                *2021 - 2022*
 
 VIRAL Lab
 
@@ -72,8 +69,7 @@ analysis, bot activity in Python, network visualization in Gephi, meeting with f
 organization (Teyit.org, a signer of IFCN) for the ongoing project about anti-vax movement
 
 
-
-* Lab Member, Sabanci University,						                                  *2020 – 2022*
+**Lab Member, Sabanci University**						                                  *2020 – 2022*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
 
@@ -82,9 +78,7 @@ Principal Investigator: Dr. Eren Günseli
 Discussing current literature, presenting articles, and discussing ongoing studies to improve
 
 
-
-
-* Researcher, Sabanci University                                              *2021 - Present*
+**Researcher, Sabanci University **                                             *2021 - Present*
 
 Independent Study
 
@@ -95,9 +89,7 @@ interrogate the relationship between spatial ability, mental timeline congruence
 performance
 
 
-
-
-* Undergraduate Research Assistant, Middle East Technical University,        	*2018 – 2020*
+**Undergraduate Research Assistant, Middle East Technical University**       	*2018 – 2020*
 
 METU Child and Adolescent Development Laboratory / ANKARA
 
@@ -111,18 +103,18 @@ visits, entering the data to SPSS and transcribing the audio records
 
 
 
-* Summer Intern, Aarhus University,			  		                      		*2019*
+**Summer Intern, Aarhus University**		  		                      		*2019*
 
 Center on Autobiographical Memory Research (CON AMORE) / AARHUS
 
 Advisor: Asst. Prof. Annette Bohn
 
-  Contributing to the postdoc project of Dr. Muge Ozbek Akcay, which was a cross-cultural study
+Contributing to the postdoc project of Dr. Muge Ozbek Akcay, which was a cross-cultural study
 between Danish-Turkish young and old generations’ life story narratives, cultural life scripts,
 and their wellbeing, by coding the life scripts, the number of life story events, and the
 emotional valence of these events for the Turkish sample
 
-  Attending the cognitive psychology courses provided by Dr. Muge Ozbek Akcay and Dr. Sinue
+Attending the cognitive psychology courses provided by Dr. Muge Ozbek Akcay and Dr. Sinue
 Salgado, and attending the Culture Lab meetings with Annette Bohn and lunch discussions in which
 guest researchers present their research and findings
 
@@ -130,36 +122,34 @@ guest researchers present their research and findings
 
 
 
-* Summer Intern, Virtual,							                              		*2019*
+**Summer Intern, Virtual**						                              		*2019*
 
 Research Maze / LONDON
 
 Manager: Selda Koydemir
 
- Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
 
 
 
 
-
-* Undergraduate Research Assistant, Middle East Technical University, 	            *2019*
+**Undergraduate Research Assistant, Middle East Technical University** 	            *2019*
 
 METU Life Span Development Laboratory / ANKARA
 
 Principal Investigator: Asst. Prof. Emre Selcuk
 
-  Rating the participants’ responses in terms of qualitative criteria, contributing to the a project about statue quo bias in romantic relationships by scoring the narratives
+Rating the participants’ responses in terms of qualitative criteria, contributing to the a project about statue quo bias in romantic relationships by scoring the narratives
 
 
 
 
-
-* Undergraduate Research Assistant, Middle East Technical University,           	 *2018 – 2019*
+**Undergraduate Research Assistant, Middle East Technical University**           	 *2018 – 2019*
 
 Middle East Technical University, Psychology Department / ANKARA
 Advisor: Prof. Sibel Kazak Berument
 
-  Contributing to the doctoral project, which was a longitudinal study about the developmental
+Contributing to the doctoral project, which was a longitudinal study about the developmental
 processes of adolescents’ health behaviors, by collecting data through visiting high schools
 
 
@@ -199,98 +189,94 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 
 
 Scholarships
-======
+===================
 * Sabanci Graduate Student Full-Scholarship,			 		            *2020 – 2022*
 * Indiana University Graduate Student Fellowship,                 *2022 – 2023*
 
 
+Manuscripts
+===========================
+     
+{Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on Time Representation. *Cognitive Science Annual Conference 2022.*
+
+{Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2022). The Role of Gestures in Autobiographical Memory. *Plos ONE*
+
 
 Manuscripts In Preparation
 ===========================
-1. Seckin, O. C., Atalay, A., Duygu, U., Otenen, E., & Varol, O. (in prep) Political Actors, Audiences and Mechanisms Driving Disinformation in Turkey: Evidence from the Covid-19 Anti-Vaccine Propaganda on Twitter. *Manuscript in preparation.*
+
+Aydin, C., Otenen, E., & Tanis, S. B. (in prep). Visual Imagery Guides the Changes in Autobiographical Memory due to Shifting Perspective.*Manuscript in preparation.*
+      
+Otenen E. & Aydin, C., (in prep). If You Can Rotate You Can Remember: The Role of Spatial and Object Imagery on Emotional Memories. *Manuscript in preparation.*
+  
+Seckin, O. C., Atalay, A., Duygu, U., Otenen, E., & Varol, O. (in prep) Political Actors, Audiences and Mechanisms Driving Disinformation in Turkey: Evidence from the Covid-19 Anti-Vaccine Propaganda on Twitter. *Manuscript in preparation.*
+
 
 Manuscripts Submitted For Publication
 =======================================
-1. Otenen, E., Tanis, S. B., & Aydin, C. (under review) Autobiographical Interview: Assessment of
+Otenen E. & Aydin, C., (2022). The Role of Scene Recall Imagery and Visual Imagery in the Recall of Emotional Autobiographical Memories. *Manuscript is presented as master's thesis.*
+
+Otenen, E., Tanis, S. B., & Aydin, C. (under review) Autobiographical Interview: Assessment of
 Episodic and Semantic Details in Memories. *Manuscript submitted for publication*
-2. Aydin, C., Otenen, E., & Tanis, S. B. (in prep). Visual imagery and shifting memory perspective.
-*Manuscript in preparation.*
+
 
 Other Publications
 =====================
-1. Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., & Varol, O. (2021). Disinformation in Turkey:
-Who is spreading false information, what is the network of them? *Teyit.org.*
 
-Presentations
+Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., & Varol, O. (2021). Disinformation in Turkey: Who is spreading false information, what is the network of them? *Teyit.org.*
+
+Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., & Varol, O. (2021). Perception of Covid-19 Vaccines Through Media and Society. *Teyit.org.*
+
+
+Presentations & Posters
 ================
-1. Otenen, E., & Aydin, C. (2021). *Comparison of Face-to-Face and Online Memories: An Exploratory*
-*Study.* Poster presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).
 
-2. Aydin, C., & Otenen, E. (2021). *Visual Imagery and Autobiographical Memory Symposium.* Symposium organized for the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).
+Tanis, S.B., Otenen, E., Senturk, Y., D., Aydin, C. (accepted). Exploring the Differences in Oral and Written Autobiographical Narratives: Episodic Specificity, Coherence, and Phenomenology. *International Convention of Psychological Science (ICPS).*
 
-3. Otenen, E., Aydin, C., Wasti, S., & A., Yegin, A. (2021).*Functions of Positive and Negative Work Memories and Their Relations to Self-Construal.* Poster presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).
+Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on
+Time Representation.*Poster presented at the virtual meeting of Cognitive Science Annual Conference 2022*
 
-4. Aydin, C. & Otenen, E. (2021). *Visual Imagery and Memory Perspective.* Talk presented at the
-virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).
+Otenen, E. & Kanero, J., (2022, May). Locating past and future: The Influence of Spatial Ability on
+Time Representation.*Poster presented at the virtual meeting of International Symposium on Brain
+and Cognitive Science (ISBCS).*
 
-5. Otenen, E., Tanis, S. B., & Aydin, C. (2021, September). *Examination of Semantic Details from
-Memory Perspective.* Poster presented at the virtual meeting of Experimental-Cognitive Psychology
-Symposium.
+Tanis, S. B., Senturk, Y. D., Otenen, E., Aydin, C., & Goksun, T. (2022, May). The Role of Gestures
+in Autobiographical Memory. *Poster presented at the virtual meeting of International Symposium on
+Brain and Cognitive Science (ISBCS).*
 
-6. Tanis, S. B., Otenen, E., Aslan-Sisman, Z., Aydin, C., & Goksun, T. (2021, November). *Gesture
+Tanis, S. B., Otenen, E., Aslan-Sisman, Z., Aydin, C., & Goksun, T. (2021, November). Gesture
 Use in Autobiographical Remembering.* Poster presented at the virtual meeting of Harvard Women in
-Psychology’s Annual Trends in Psychology Summit (TiPS).
+Psychology’s Annual Trends in Psychology Summit (TiPS).*
 
-7. Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., Yilmaz, M. C., & Varol, O. (2021, February). *Vaccine
-Disinformation in Turkey.* Talk presented at the virtual meeting of Bilgi University, The Infodemic
-and Information Disorders in the Post-Truth Age, Graduate Student Conference.
+Otenen, E., & Aydin, C. (2021). Comparison of Face-to-Face and Online Memories: An Exploratory
+Study. *Poster presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
 
-8. Otenen, E. & Kanero, J., (2022, May). *Locating past and future: The Influence of Spatial Ability on
-Time Representation.* Poster presented at the virtual meeting of International Symposium on Brain
-and Cognitive Science (ISBCS).
+Aydin, C., & Otenen, E. (2021). Visual Imagery and Autobiographical Memory Symposium.* Symposium organized for the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).
 
-9. Tanis, S. B., Senturk, Y. D., Otenen, E., Aydin, C., & Goksun, T. (2022, May). *The Role of Gestures
-in Autobiographical Memory.* Poster presented at the virtual meeting of International Symposium on
-Brain and Cognitive Science (ISBCS).
+Otenen, E., Aydin, C., Wasti, S., & A., Yegin, A. (2021).Functions of Positive and Negative Work Memories and Their Relations to Self-Construal. *Poster presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
 
-10. Otenen, E. & Kanero, J., (2022, July). *Locating past and future: The Influence of Spatial Ability on
-Time Representation.* Poster presented at the virtual meeting of Cognitive Science Annual Conference
-2022
+Aydin, C. & Otenen, E. (2021). Visual Imagery and Memory Perspective. *Talk presented at the
+virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
+
+Otenen, E., Tanis, S. B., & Aydin, C. (2021, September). Examination of Semantic Details from
+Memory Perspective. *Poster presented at the virtual meeting of Experimental-Cognitive Psychology
+Symposium.*
+
+Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., Yilmaz, M. C., & Varol, O. (2021, February). Vaccine
+Disinformation in Turkey. *Talk presented at the virtual meeting of Bilgi University, The Infodemic
+and Information Disorders in the Post-Truth Age, Graduate Student Conference.*
+
 
 Teaching Experience
 ======================
 
-* Graduate Teaching Assistant, Sabanci University,  			            2020 – 2021
-
-*Course: Memory*
-
-Responsibilities:  Uploading the course material, reading assignments and exams, helping the exam preparation
-
-
-* Graduate Teaching Assistant, Sabanci University,            				 2020 – 2022
-*Course: Experimental Psychology*
-
-Responsibilities: Assisting weekly lab hours, helping the research groups to develop their research, design their projects and analyze their data, grading the assignments
-
-
 * Graduate Teaching Assistant, Sabanci University,			            2020 – 2021
 
-*Course: Introduction to Psychology*
+Courses: Introduction to Psychology, Memory, Experimental Psychology*
 
-Responsibilities: Preparing materials for lab hours, holding office hours after exams, preparing online exams, grading assignments
+Responsibilities: Preparing materials for lab hours,helping the research groups to develop their research, design their projects and analyze their data.   						
 
 
-* Guest Lecturer, Sabanci University,       					            2020 – 2021
-
-*Course: Memory*
-
-Responsibilities: Invited to teach one lecture on semantic memory to undergraduate students. Developed and delivered 40 minutes offline lecture video.
-
-* Guest Lecturer, Sabanci University,   						 2020 – 2021
-
-*Course: Experimental Psychology*
-
-Responsibilities: Developed and delivered 15 minutes-long lecture about how to use G*Power.
 
 
 SEMINARS & CERTIFICATES
