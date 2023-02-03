@@ -25,20 +25,29 @@ Faculty of Art & Sciences, Department of Psychology
 
 CGPA: **3,75 / 4**
 
+\newline
+\newline
+\newline
+\newline
+
 Skills
 ======
 
-Languages: SPSS, Python, R, Jamovi, Labvanced
+*Languages:* SPSS, Python, R, Jamovi, Labvanced
+\newline
+*Developer Tools:* Git, VS Code, Unix
+\newline
+*Qualitative Research Tools*: ELAN, Taguette, Qualtrics, MS Office
+\newline
 
-Developer Tools: Git, VS Code, Unix
 
-Qualitative Research Tools: ELAN, Taguette, Qualtrics, MS Office
-
-
-  
+  \newline
+\newline
+\newline
+\newline
 Research Experience
 ==========================
-**Lab Coordinator, Sabanci University**				                                *2020 – 2022*
+**Lab Coordinator, Sabanci University, **				                                *2020 – 2022*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
@@ -51,7 +60,7 @@ SPSS, and R
 
 
 
-**Project member, Summer Institute in Computational Social Sciences**                      *2021*
+**Project member, Summer Institute in Computational Social Sciences, **                      *2021*
 
 SICSS Istanbul / ISTANBUL
 
@@ -64,7 +73,7 @@ perception in Turkey, and examining the usage of pronouns in anti-vaxxers’ nar
 
 
 
-**Lab Member, Sabanci University**                                                *2021 - 2022*
+**Lab Member, Sabanci University, **                                                *2021 - 2022*
 
 VIRAL Lab
 
@@ -77,7 +86,7 @@ organization (Teyit.org, a signer of IFCN) for the ongoing project about anti-va
 
 
 
-**Lab Member, Sabanci University**						                                  *2020 – 2022*
+**Lab Member, Sabanci University, **						                                  *2020 – 2022*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
 
@@ -88,7 +97,7 @@ Discussing current literature, presenting articles, and discussing ongoing studi
 
 
 
-**Researcher, Sabanci University **                                             *2021 - Present*
+**Researcher, Sabanci University, **                                             *2021 - Present*
 
 Independent Study
 
@@ -98,19 +107,6 @@ Developing a study in Labvanced, and collecting online data for the project whic
 interrogate the relationship between spatial ability, mental timeline congruence, and memory
 performance
 
-
-
-
-**Undergraduate Research Assistant, Middle East Technical University**       	*2018 – 2020*
-
-METU Child and Adolescent Development Laboratory / ANKARA
-
-Principal Investigator: Asst. Prof. Başak Şahin Acar
-
-Contributing to the several research projects by collecting life stories from young adults,
-interviewing women about their early motherhood memories, and collecting data for a study that
-investigates maternal reminiscing in adolescents and autobiographical memory functions via home
-visits, entering the data to SPSS and transcribing the audio records
 
 
 
@@ -133,8 +129,19 @@ guest researchers present their research and findings
 
 
 
+**Undergraduate Research Assistant, Middle East Technical University**       	*2018 – 2020*
 
-**Summer Intern, Virtual**						                              		*2019*
+METU Child and Adolescent Development, Laboratory and METU Life Span Development Laboratory / ANKARA
+
+Principal Investigators: Asst. Prof. Başak Şahin Acar, Asst. Prof. Emre Selcuk
+
+Contributing to the several research projects by collecting life stories from young adults, interviewing women about their early motherhood memories, and collecting data for a study that investigates maternal reminiscing in adolescents and autobiographical memory functions via home visits, entering the data to SPSS and transcribing the audio records, rating the participants’ responses in terms of qualitative criteria, contributing to the a project about statue quo bias in romantic relationships by scoring the narratives
+
+
+
+
+
+**Research Intern, Virtual**						                              		*2019*
 
 Research Maze / LONDON
 
@@ -144,30 +151,10 @@ Contributing to ongoing research by reviewing the literature, writing blogs abou
 
 
 
-
-**Undergraduate Research Assistant, Middle East Technical University** 	            *2019*
-
-METU Life Span Development Laboratory / ANKARA
-
-Principal Investigator: Asst. Prof. Emre Selcuk
-
-Rating the participants’ responses in terms of qualitative criteria, contributing to the a project about statue quo bias in romantic relationships by scoring the narratives
-
-
-
-
-**Undergraduate Research Assistant, Middle East Technical University**           	 *2018 – 2019*
-
-Middle East Technical University, Psychology Department / ANKARA
-Advisor: Prof. Sibel Kazak Berument
-
-Contributing to the doctoral project, which was a longitudinal study about the developmental
-processes of adolescents’ health behaviors, by collecting data through visiting high schools
-
-
-
-
-
+\newline
+\newline
+\newline
+\newline
 
 
 
@@ -178,39 +165,29 @@ Contributions to Ongoing Funded Research
 
 * TOXICFREE: Artificial Intelligence Assisted Parental Control Application,       *2020- 2021*   
 
-Principal Investigator: Reyyan Yeniterzi, Computer Science
+Principal Investigator: Reyyan Yeniterzi, *Computer Science*
 
-Advisor: Cagla Aydin, Psychology
+Advisor: Cagla Aydin, *Psychology*
 
 Funded by The Project of Scientific and Technological Research Council of Turkey, 1512 - Entrepreneurship Multi-phase Programme
 
 *Role:* Research Assistant, I contributed to the coding process of hate speech in social media data collected from Twitter.
 
 
+
 * Information exchange between long-term memory and working memory for adaptive behavior,   *2020- 2022*	
 
-Principal Investigator: Eren Günseli, Psychology
+Principal Investigator: Eren Günseli, *Psychology*
 Funded by The Project of Scientific and Technological Research Council of Turkey, 2232 International Fellowship For Outstanding Researchers 
 
 *Role:* Research Assistant, I contributed to the coding process of the experiments and by discussing the design of the project with co-investigators.
 
 
 
-
-
-Contributions to Prior Funded Research  
-==========================================
-Project of family, child, and adolescent in Turkey,                *February 2020*
-
-Principal Investigator: Sibel Kazak Berument, Psychology
-
-Funded by The Project of Scientific and Technological Research Council of Turkey, 1003- Primary Subjects R&D Funding Program  
-
-*Role:* Undergraduate Research Assistant, I contributed to the data collection part of the study by visiting high schools.
-
-
-
-
+\newline
+\newline
+\newline
+\newline
 
 Scholarships
 ===================
@@ -224,7 +201,10 @@ Scholarships
 
 
 
-
+\newline
+\newline
+\newline
+\newline
 
 
 
@@ -232,9 +212,9 @@ Scholarships
 Manuscripts
 ===========================
      
-{Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on Time Representation. *Cognitive Science Annual Conference 2022.*
+Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on Time Representation. *Cognitive Science Annual Conference 2022.*
 
-{Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2022). The Role of Gestures in Autobiographical Memory. *Plos ONE*
+Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2022). The Role of Gestures in Autobiographical Memory. *Plos ONE*
 
 
 
@@ -280,16 +260,13 @@ Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence o
 Time Representation.*Poster presented at the virtual meeting of Cognitive Science Annual Conference 2022*
 
 Otenen, E. & Kanero, J., (2022, May). Locating past and future: The Influence of Spatial Ability on
-Time Representation.*Poster presented at the virtual meeting of International Symposium on Brain
-and Cognitive Science (ISBCS).*
+Time Representation.*Poster presented at the virtual meeting of International Symposium on Brain and Cognitive Science (ISBCS).*
 
 Tanis, S. B., Senturk, Y. D., Otenen, E., Aydin, C., & Goksun, T. (2022, May). The Role of Gestures
-in Autobiographical Memory. *Poster presented at the virtual meeting of International Symposium on
-Brain and Cognitive Science (ISBCS).*
+in Autobiographical Memory. *Poster presented at the virtual meeting of International Symposium on Brain and Cognitive Science (ISBCS).*
 
 Tanis, S. B., Otenen, E., Aslan-Sisman, Z., Aydin, C., & Goksun, T. (2021, November). Gesture
-Use in Autobiographical Remembering.* Poster presented at the virtual meeting of Harvard Women in
-Psychology’s Annual Trends in Psychology Summit (TiPS).*
+Use in Autobiographical Remembering. *Poster presented at the virtual meeting of Harvard Women in Psychology’s Annual Trends in Psychology Summit (TiPS).*
 
 Otenen, E., & Aydin, C. (2021). Comparison of Face-to-Face and Online Memories: An Exploratory
 Study. *Poster presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
@@ -298,40 +275,44 @@ Aydin, C., & Otenen, E. (2021). Visual Imagery and Autobiographical Memory Sympo
 
 Otenen, E., Aydin, C., Wasti, S., & A., Yegin, A. (2021).Functions of Positive and Negative Work Memories and Their Relations to Self-Construal. *Poster presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
 
-Aydin, C. & Otenen, E. (2021). Visual Imagery and Memory Perspective. *Talk presented at the
-virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
+Aydin, C. & Otenen, E. (2021). Visual Imagery and Memory Perspective. *Talk presented at the virtual meeting of the Society for Applied Research in Memory and Cognition (vSARMAC).*
 
 Otenen, E., Tanis, S. B., & Aydin, C. (2021, September). Examination of Semantic Details from
-Memory Perspective. *Poster presented at the virtual meeting of Experimental-Cognitive Psychology
-Symposium.*
+Memory Perspective. *Poster presented at the virtual meeting of Experimental-Cognitive Psychology Symposium.*
 
 Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., Yilmaz, M. C., & Varol, O. (2021, February). Vaccine
 Disinformation in Turkey. *Talk presented at the virtual meeting of Bilgi University, The Infodemic
 and Information Disorders in the Post-Truth Age, Graduate Student Conference.*
 
 
-
+\newline
+\newline
+\newline
+\newline
 
 Teaching Experience
 ======================
 
 * Graduate Teaching Assistant, Sabanci University,			            2020 – 2021
 
-Courses: Introduction to Psychology, Memory, Experimental Psychology*
+Courses: Introduction to Psychology, Memory, Experimental Psychology
 
 Responsibilities: Preparing materials for lab hours,helping the research groups to develop their research, design their projects and analyze their data.   						
 
 
-
+\newline
+\newline
+\newline
+\newline
 
 
 SEMINARS & CERTIFICATES
 ======================
-1. Applied Data Science I: Scientific Computing & Python,				*2021*
+Applied Data Science I: Scientific Computing & Python,				*2021*
 
 Worldquant University
 
-2. “Preparing Future Faculty” for Turkey Project	- Teaching Seminar,			*2021*
+“Preparing Future Faculty” for Turkey Project	- Teaching Seminar,			*2021*
 
 Sabanci University, Abdullah Gul University, U.S. Embassy
 		
