@@ -11,6 +11,16 @@ redirect_from:
 
 Education
 ========
+Indiana University
+Ph.D. in Informatics and Cognitive Science
+
+CGPA: **4 / 4**
+
+Advisor: Prof. Johan Bollen
+
+
+
+
 Sabanci University
 Master’s of Science in Cognitive Psychology  
 
@@ -19,32 +29,27 @@ CGPA: **4 / 4**
 Advisor: Asst. Prof. Cagla Aydin
 
 
+
+
 Middle East Technical University, 2020
 
 Faculty of Art & Sciences, Department of Psychology
 
 CGPA: **3,75 / 4**
 
-\newline
-\newline
-\newline
-\newline
+
 
 Skills
 ======
 
 *Languages:* SPSS, Python, R, Jamovi, Labvanced
-\newline
+
 *Developer Tools:* Git, VS Code, Unix
-\newline
+
 *Qualitative Research Tools*: ELAN, Taguette, Qualtrics, MS Office
-\newline
 
 
-  \newline
-\newline
-\newline
-\newline
+
 Research Experience
 ==========================
 **Lab Coordinator, Sabanci University, **				                                *2020 – 2022*
@@ -151,10 +156,7 @@ Contributing to ongoing research by reviewing the literature, writing blogs abou
 
 
 
-\newline
-\newline
-\newline
-\newline
+
 
 
 
@@ -184,10 +186,6 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 
 
 
-\newline
-\newline
-\newline
-\newline
 
 Scholarships
 ===================
@@ -198,13 +196,6 @@ Scholarships
 
 
 
-
-
-
-\newline
-\newline
-\newline
-\newline
 
 
 
@@ -285,10 +276,7 @@ Disinformation in Turkey. *Talk presented at the virtual meeting of Bilgi Univer
 and Information Disorders in the Post-Truth Age, Graduate Student Conference.*
 
 
-\newline
-\newline
-\newline
-\newline
+
 
 Teaching Experience
 ======================
@@ -300,10 +288,7 @@ Courses: Introduction to Psychology, Memory, Experimental Psychology
 Responsibilities: Preparing materials for lab hours,helping the research groups to develop their research, design their projects and analyze their data.   						
 
 
-\newline
-\newline
-\newline
-\newline
+
 
 
 SEMINARS & CERTIFICATES
