@@ -53,7 +53,7 @@ Skills
 Research Experience
 ==========================
 
-**Lab Coordinator, Sabanci University, **				                                2020 – 2022
+**Lab Coordinator, Sabanci University, **				                                *2020 – 2022*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
@@ -66,7 +66,7 @@ SPSS, and R
 
 
 
-**Project member, Summer Institute in Computational Social Sciences, **                      2021
+**Project member, Summer Institute in Computational Social Sciences, **                      *2021*
 
 SICSS Istanbul / ISTANBUL
 
