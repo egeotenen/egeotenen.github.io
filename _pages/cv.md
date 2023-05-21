@@ -52,12 +52,37 @@ Skills
 
 Research Experience
 ==========================
+**Lab Member, Indiana University,**                                       *2022 - Present*
+
+Center for Social and Biomedical Complexity Lab / Bloomington, IN
+
+Principal Investigator: Dr. Johan Bollen
+
+
+Discussing, improving, and presenting ongoing projects that are utilizing
+behavioral experiments, web scraping, and NLP methods:
+1-Quantifying Loneliness in Social Media
+2- Narrative and Cognitive Coherence on Misinformation of Political News
+
+
+**Lab Member, Indiana University**                                        *2022 - Present*
+
+Experimental Humanities Lab / Bloomington, IN
+
+Principal Investigator: Dr. Fritz Breithaupt
+
+Discussing, designing improving, and presenting ongoing projects that are
+utilizing behavioral experiments, and NLP methods:
+1- Retelling a Meaningful Life Episode
+2- Comparison of Human vs. ChatGPT on Serial Reproduction
+
+
 
 **Lab Coordinator, Sabanci University,**				                                *2020 – 2022*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
-Principal Investigator: Asst. Prof. Cagla Aydin
+Principal Investigator: Dr. Cagla Aydin
 
 Managing weekly lab meetings, distributing tasks to the members, leading ongoing projects,
 coding narratives, teaching the coding scheme to trainees, preparing and analysing materials in
@@ -70,7 +95,7 @@ SPSS, and R
 
 SICSS Istanbul / ISTANBUL
 
-Coordinator: Asst. Prof. Akin Unver
+Coordinator: Dr. Akin Unver
 
 Collecting social media data by web-scraping and Twitter API, preprocessing data, conducting
 sentiment analysis and topic modeling in R, and Python for the group project about vaccine
@@ -121,7 +146,7 @@ performance
 
 Center on Autobiographical Memory Research (CON AMORE) / AARHUS
 
-Advisor: Asst. Prof. Annette Bohn
+Advisor: Dr. Annette Bohn
 
 Contributing to the postdoc project of Dr. Muge Ozbek Akcay, which was a cross-cultural study
 between Danish-Turkish young and old generations’ life story narratives, cultural life scripts,
@@ -139,7 +164,7 @@ guest researchers present their research and findings
 
 METU Child and Adolescent Development, Laboratory and METU Life Span Development Laboratory / ANKARA
 
-Principal Investigators: Asst. Prof. Başak Şahin Acar, Asst. Prof. Emre Selcuk
+Principal Investigators: Dr. Başak Şahin Acar, Dr. Emre Selcuk
 
 Contributing to the several research projects by collecting life stories from young adults, interviewing women about their early motherhood memories, and collecting data for a study that investigates maternal reminiscing in adolescents and autobiographical memory functions via home visits, entering the data to SPSS and transcribing the audio records, rating the participants’ responses in terms of qualitative criteria, contributing to the a project about statue quo bias in romantic relationships by scoring the narratives
 
@@ -207,10 +232,7 @@ Scholarships & Awards
 
 Manuscripts
 ===========================
-     
-
-
-Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2022). The Role of Gestures in Autobiographical Memory. *Plos ONE*
+Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2023). The Role of Gestures in Autobiographical Memory. *Plos ONE*
 
 Otenen, E. & Kanero, J., (2023). Locating past and future: The Influence of Spatial Ability and Learning Order on Memory for Items and Time. *OSF Preprints*
 
