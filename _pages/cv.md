@@ -53,7 +53,7 @@ Skills
 Research Experience
 ==========================
 
-**Lab Coordinator, Sabanci University, **				                                *2020 – 2022*
+**Lab Coordinator, Sabanci University,**				                                *2020 – 2022*
 
 Culture Language and Autobiographical Memory Lab / ISTANBUL
 
@@ -66,7 +66,7 @@ SPSS, and R
 
 
 
-**Project member, Summer Institute in Computational Social Sciences, **                      *2021*
+**Project member, Summer Institute in Computational Social Sciences,**                      *2021*
 
 SICSS Istanbul / ISTANBUL
 
@@ -79,7 +79,7 @@ perception in Turkey, and examining the usage of pronouns in anti-vaxxers’ nar
 
 
 
-**Lab Member, Sabanci University, **                                                *2021 - 2022*
+**Lab Member, Sabanci University,**                                                *2021 - 2022*
 
 VIRAL Lab
 
@@ -92,7 +92,7 @@ organization (Teyit.org, a signer of IFCN) for the ongoing project about anti-va
 
 
 
-**Lab Member, Sabanci University, **						                                  *2020 – 2022*
+**Lab Member, Sabanci University,**						                                  *2020 – 2022*
 
 Memory Attention and Cognitive Control Lab / ISTANBUL
 
@@ -103,7 +103,7 @@ Discussing current literature, presenting articles, and discussing ongoing studi
 
 
 
-**Researcher, Sabanci University, **                                             *2021 - Present*
+**Researcher, Sabanci University,**                                             *2021 - Present*
 
 Independent Study
 
@@ -154,6 +154,8 @@ Research Maze / LONDON
 Manager: Selda Koydemir
 
 Contributing to ongoing research by reviewing the literature, writing blogs about psychology, and preparing presentations remotely within a team
+
+
 
 
 
