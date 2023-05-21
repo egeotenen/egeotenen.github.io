@@ -188,10 +188,12 @@ Funded by The Project of Scientific and Technological Research Council of Turkey
 
 
 
-Scholarships
-===================
-* Sabanci Graduate Student Full-Scholarship,			 		            *2020 – 2022*
+Scholarships & Awards
+=========================
+* Cognitive Science Society, Diversity and Inclusion Award        *2023*
 * Indiana University Graduate Student Fellowship,                 *2022 – 2023*
+* Sabanci Graduate Student Full-Scholarship,			 		            *2020 – 2022*
+
 
 
 
@@ -204,9 +206,13 @@ Scholarships
 Manuscripts
 ===========================
      
-Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on Time Representation. *Cognitive Science Annual Conference 2022.*
+
 
 Aydin, C., Goksun, T., Otenen, E., Tanis, S. B., & Senturk, Y. D. (2022). The Role of Gestures in Autobiographical Memory. *Plos ONE*
+
+Otenen, E. & Kanero, J., (2023). Locating past and future: The Influence of Spatial Ability and Learning Order on Memory for Items and Time. *OSF Preprints*
+
+Otenen E. & Aydin, C., (2022). The Role of Scene Recall Imagery and Visual Imagery in the Recall of Emotional Autobiographical Memories. *Manuscript is published as master's thesis.*
 
 
 
@@ -225,10 +231,13 @@ Seckin, O. C., Atalay, A., Duygu, U., Otenen, E., & Varol, O. (in prep) Politica
 
 Manuscripts Submitted For Publication
 =======================================
-Otenen E. & Aydin, C., (2022). The Role of Scene Recall Imagery and Visual Imagery in the Recall of Emotional Autobiographical Memories. *Manuscript is presented as master's thesis.*
 
-Otenen, E., Tanis, S. B., & Aydin, C. (under review) Autobiographical Interview: Assessment of
-Episodic and Semantic Details in Memories. *Manuscript submitted for publication*
+Aydin, C., Otenen E., & Tanis, S. B. (under review) Visual Imagery Guides the Changes in Autobiographical Memory due to Shifting Perspective. *Memory & Cognition*
+
+Otenen, E. & Kanero, J., (under review). Locating past and future: The Influence of Spatial Ability and Learning Order on Memory for Items and Time. *Cognitive Science Journal*
+
+Otenen, E., Tanis, S. B., \& Aydin, C. (under review) Autobiographical Interview: Assessment of Episodic and Semantic Details in Memories. *Manuscript submitted for publication.*
+
 
 
 
@@ -246,7 +255,19 @@ Seckin, O. C., Otenen, E., Duygu, U., Atalay, A., & Varol, O. (2021). Perception
 Presentations & Posters
 ========================
 
-Tanis, S.B., Otenen, E., Senturk, Y., D., Aydin, C. (accepted). Exploring the Differences in Oral and Written Autobiographical Narratives: Episodic Specificity, Coherence, and Phenomenology. *International Convention of Psychological Science (ICPS).*
+Otenen, E.*, Seckin, O. C.*, Bollen, J., & Valdez, D. (2023). Quantifying the Digital Phenotype of Loneliness on Twitter. *Cognitive Science Annual Conference 2023.*
+
+Otenen, E.*, Wrigth, D.*, Tan, Y., Kruschke J., Li Y., & Breithaupt, F. (2023). Man vs. Machine: What ChatGPT Reveals about Human Memory, Emotion, and Creativity in the Serial Reproduction of Stories. *Midwest Cognitive Science Conference 2023.*
+
+Otenen, E.*, Seckin, O. C.*, Bollen, J., & Valdez, D. (2023). Quantifying the Digital Phenotype of Loneliness on Twitter. *Midwest Cognitive Science Conference 2023.*
+
+Otenen, E., Aydin, C. (2023). Exploring the Role of Visual Imagery in the Recall of Emotional Autobiographical Memories. *Cognitive Science Annual Conference 2023.*
+
+Tanis, S. B., Senturk, Y. D., Otenen, Karagul, E., Pamay, E., Akbaba E., Kaynar, Y., Ceylan S., E., Goksun, T., & Aydin, C. (2023, May). Gestures Use in Autobiographical Memory. *International Symposium on Brain and Cognitive Science (ISBCS).*
+
+Tanis, S. B., Senturk, Y. D., Otenen, E., Aydin, C., & Goksun, T. (2023). Gesture use in Autobiographical Memory. *Poster submitted to the Conferences of Society for Applied Research in Memory and Cognition (SARMAC).*
+
+Tanis, S. B., Otenen, E., Senturk, Y. D., Aydin, C., & Goksun, T. (2023, March). Exploring the Differences in Oral and Written Autobiographical Narratives: Episodic Specificity, Coherence, and Phenomenology. *Poster accepted to International Convention of Psychological Science (ICPS).*
 
 Otenen, E. & Kanero, J., (2022, July). Locating past and future: The Influence of Spatial Ability on
 Time Representation.*Poster presented at the virtual meeting of Cognitive Science Annual Conference 2022*
