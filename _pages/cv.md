@@ -12,7 +12,7 @@ redirect_from:
 Education
 ========
 Indiana University
-Ph.D. in Informatics and Cognitive Science
+Ph.D. in *Informatics* and *Cognitive Science*
 
 CGPA: **4 / 4**
 
@@ -22,7 +22,7 @@ Advisor: Prof. Johan Bollen
 
 
 Sabanci University
-Master’s of Science in Cognitive Psychology  
+Master’s of Science in *Cognitive Psychology* 
 
 CGPA: **4 / 4**
 
@@ -33,7 +33,7 @@ Advisor: Asst. Prof. Cagla Aydin
 
 Middle East Technical University, 2020
 
-Faculty of Art & Sciences, Department of Psychology
+Faculty of Art & Sciences, Department of *Psychology*
 
 CGPA: **3,75 / 4**
 
