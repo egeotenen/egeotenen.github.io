@@ -7,8 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](https://www.canva.com/
-https://export-download.canva.com/TISII/DAFwUtTISII/57/0-5233588151578832887.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20231008%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231008T105153Z&X-Amz-Expires=27212&X-Amz-Signature=1c96202485361285b46d785b72418f650811710961a39c87ce777c896d1d4ae2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27yagmur%2520erten%2527s%2520resume%25202023.pdf&response-expires=Sun%2C%2008%20Oct%202023%2018%3A25%3A25%20GMT/OtenenEge_Resume.pdf)
+[Download PDF](https://drive.google.com/file/d/1tXxFC_fR_AwTlpJhcqK_TrsMXGavGoh2/view?usp=share_link)
 
 {% include base_path %}
 
