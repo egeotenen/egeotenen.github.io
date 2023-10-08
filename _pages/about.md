@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics dual degree program at Indiana University, Bloomington. I'm working with [Dr. Johan Bollen](https://homes.luddy.indiana.edu/jbollen/). My research interests lie in computational social science, autobiographical memory, language, individual differences. 
+Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics dual degree program at Indiana University, Bloomington. My research interests lie in autobiographical memory, language, individual differences, computational social science, and human-computer interaction. 
 
 I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](http://varollab.com/) under the supervision of [Dr. Onur Varol](http://www.onurvarol.com/). 
 
@@ -22,9 +22,10 @@ Click to see my personal diary [here!](https://sites.google.com/view/otenenege/m
 * BSc in Psychology, Middle East Technical University, 2020
 
 # Research Interests 
-* Computational Social Science
 * Autobiographical Memory
 * Individual Differences (Culture, Visual imagery, Spatial ability, Cognitive skills)
+* User Experience
 * Language/Narrative Analysis
+* Computational Social Science
 
 
