@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics dual degree program at Indiana University, Bloomington. My research interests lie in autobiographical memory, individual differences in sensory imaginations, computational social science, and human-computer interaction. I am currently working with [Dr.Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) 
-to explore the utilization of autobiographical memories and modalities in enhancing user experience and well-being.
+Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I am interested in the reciprocal relationship between autobiographical memory and technology. I am currently working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) to explore the utilization of autobiographical memories with different modalities to enhance user experience and well-being.
 
 I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](http://varollab.com/) under the supervision of [Dr. Onur Varol](http://www.onurvarol.com/). 
 
@@ -24,11 +23,11 @@ Click to see my personal diary [here!](https://sites.google.com/view/otenenege/m
 
 # Research Interests 
 * Autobiographical Memory
-* Individual Differences (Culture, Imagery, Spatial ability, Cognitive skills)
-* Language/Narrative Analysis
-* Computational Social Science
-* User Experience
-* Memory & Social Media
+* Designing Technologies
+* Well-being
+* Individual Differences 
+* Theory of Mind
+* Mental Simulations
 
 
 
