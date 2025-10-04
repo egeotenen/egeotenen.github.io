@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I am interested in the reciprocal relationship between autobiographical memory and technology. I am currently working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) on understanding the role of modalities as cognitive affordances for autobiographical memories and developing design frameworks for enhancing user experience and well-being and with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on the influence of social media on meaningful life memories. My research interests have also expanded into the co-remembering process between humans and AI, which sparked my curiosity about the theory of mind in interactions between humans and large language models (LLMs).
+Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I am interested in the influence of social media and AI on remembering and reflecting on autobiographical memories.  I am currently working with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on investigating cognitive mechanisms behind reflections, and working with Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand design implications of remembering and reflecting with social media and AI on well-being. 
 
 I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](https://varollab.com/) under the supervision of [Dr. Onur Varol](https://www.onurvarol.com/). 
 
@@ -23,9 +23,10 @@ I also write weekly diaries throughout my PhD, you can access it [here!](https:/
 
 # Research Interests 
 * Autobiographical Memory
-* Designing Technologies
+* Reflection
+* Social Media
+* Human-AI Interaction
 * Well-being
-* Individual Differences 
+* Design
 * Theory of Mind
-* Human-AI interaction
 
