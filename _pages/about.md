@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I am interested in the influence of social media and AI on remembering and reflections on autobiographical memories, with a specific focus on the role of audiences on shaping these processes.  I am currently working with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on investigating cognitive mechanisms behind reflections, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to design better technologies to improve well-being. 
+Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences ( AI agents or anonymous social media users) influence these processes.
+ I am currently working with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on investigating cognitive mechanisms behind remembering and reflection, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand the current technologies' influences on human relationships and well-being.
 
 I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](https://varollab.com/) under the supervision of [Dr. Onur Varol](https://www.onurvarol.com/). 
 
@@ -24,8 +25,8 @@ I also write weekly diaries throughout my PhD, you can access it [here!](https:/
 # Research Interests 
 * Autobiographical Memory
 * Reflection
-* Social Media
 * Human-AI Interaction
+* Social Media
 * Well-being
 * Design
 * Theory of Mind
