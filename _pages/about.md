@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences ( AI agents or anonymous social media users) influence these processes.
+Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences (conversational AI agents or anonymous social media users) influence these processes.
  I am currently working with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on investigating cognitive mechanisms behind remembering and reflection, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand the current technologies' influences on human relationships and well-being.
 
 I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](https://varollab.com/) under the supervision of [Dr. Onur Varol](https://www.onurvarol.com/). 
@@ -17,6 +17,7 @@ I received my BSc in psychology from Middle East Technical University. During my
 
 I also write weekly diaries throughout my PhD, you can access it [here!](https://sites.google.com/view/otenenege/2024-2025?authuser=0)
 
+I am currently on job market, please see my research talk information [here!](https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=sharing)
 
 # Education
 * MSc in Cognitive Psychology, Sabanci University, 2022
