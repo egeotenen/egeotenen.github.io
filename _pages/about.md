@@ -17,7 +17,7 @@ I received my BSc in psychology from Middle East Technical University. During my
 
 I also write weekly diaries throughout my PhD, you can access it [here!](https://sites.google.com/view/otenenege/2024-2025?authuser=0)
 
-I am currently on job market, please see my research talk information [here!](https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=sharing)
+I am currently on job market, please see my research talk information [here!](https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=share_link)
 
 # Education
 * MSc in Cognitive Psychology, Sabanci University, 2022
