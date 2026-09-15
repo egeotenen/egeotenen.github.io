@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences (conversational AI agents or anonymous social media users) influence these processes.
- I am currently working with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on investigating cognitive mechanisms behind remembering and reflection, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand the current technologies' influences on human relationships and well-being.
+Hi all, this is my personal webpage! I'm currently a postdoc researcher in the IT University of Copenhagen. I have a Ph.D. in Cognitive Science and Informatics (HCI) from Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences (conversational AI agents or anonymous social media users) influence these processes.
+
+ I am currently working with [Dr. Fritz Breithaupt](https://experimentalhumanities.com) on investigating mechanisms behind personal narratives, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand the current technologies' influences on human relationships and well-being.
 
 I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](https://varollab.com/) under the supervision of [Dr. Onur Varol](https://www.onurvarol.com/). 
 
@@ -17,18 +18,21 @@ I received my BSc in psychology from Middle East Technical University. During my
 
 I also write weekly diaries throughout my PhD, you can access it [here!](https://sites.google.com/view/otenenege/2024-2025?authuser=0)
 
-I am currently on job market, please see my research talk information [here!](https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=share_link)
+If you want to reach for a research talk, please see my research talk information [here!](https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=share_link)
+
+
 
 # Education
-* MSc in Cognitive Psychology, Sabanci University, 2022
+* PhD in Cognitive Science & Informatics (HCI/Design), Indiana University, Bloomington, 2026 [Dissertation](https://drive.google.com/file/d/1mXh44gSYNa_yomVyP1N-w_DagtF-9DHM/view?usp=share_link)
+* MSc in Cognitive Psychology, Sabanci University, 2022 [Thesis](https://drive.google.com/file/d/1cAuk9ViWg6QKpJ-8FdpKsq4tOVJEwPZ2/view?usp=share_link)
 * BSc in Psychology, Middle East Technical University, 2020
 
 # Research Interests 
 * Autobiographical Memory
+* Emotion
 * Reflection
+* Conversational Agents
 * Human-AI Interaction
 * Social Media
 * Well-being
 * Design
-* Theory of Mind
-
