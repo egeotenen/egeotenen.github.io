@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a postdoc researcher in the IT University of Copenhagen, and an affiliate researcher at [Pioneer Centre for Artificial Intelligence] (https://www.aicentre.dk/) and [Psychology of Technology Institute](https://www.psychoftech.org/). I have a Ph.D. in Cognitive Science and Informatics (HCI) from Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences (conversational AI agents or anonymous social media users) influence these processes.
+Hi all, this is my personal webpage! I'm currently a postdoc researcher in the IT University of Copenhagen, and an affiliate researcher at [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/) and [Psychology of Technology Institute](https://www.psychoftech.org/). I have a Ph.D. in Cognitive Science and Informatics (HCI) from Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences (conversational AI agents or anonymous social media users) influence these processes.
 
  I am currently working with [Dr. Fritz Breithaupt](https://experimentalhumanities.com) on investigating mechanisms behind personal narratives, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand the current technologies' influences on human relationships and well-being.
 
