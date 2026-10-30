@@ -1,12 +1,106 @@
-# Selected publications, newest first. Leave the list empty ([]) to show only the Google Scholar link.
-# Your name is highlighted automatically when written as "Ege Otenen" or "E. Otenen".
-#
-# Example entry (copy, remove the leading "# ", and fill in):
-# - title: "Paper title"
-#   authors: "Ege Otenen, Co Author, Another Author"
-#   venue: "Proceedings of CHI"
-#   year: 2025
-#   url: https://doi.org/10.1145/xxxx      # link on the title (optional)
-#   pdf: /files/paper.pdf                  # optional
-#   doi: 10.1145/xxxx                      # optional
-[]
+# Publications, newest first.
+# - selected: true  → also shown on the homepage (keep it to ~6)
+# - url / pdf / doi are optional links
+# Your name is highlighted automatically when written as "E. Otenen".
+
+- title: "Care-in-Retrograde: Designing for Reproductive Health in the Aftermath of Roe"
+  authors: "C. Bosco, E. Otenen, P. C. Shih, E. Kaziunas"
+  venue: "CHI Conference on Human Factors in Computing Systems (CHI)"
+  year: 2026
+
+- title: "“Social Media Killed Our Generation”: Teenagers’ Felt Experiences of Harm on Social Media"
+  authors: "R. Gairola, C. M. Gray, J. Dong, K. J. Jeong, E. Otenen, J. J. Sarria"
+  venue: "CHI Conference on Human Factors in Computing Systems (CHI)"
+  year: 2026
+  selected: true
+
+- title: "The First Reflection in Creative Experience (RiCE) Workshop"
+  authors: "C. Ford, O. Sutskova, S. R. Cox, S. Sterman, M. Kreminski, et al."
+  venue: "Conference on Creativity and Cognition (C&C)"
+  year: 2026
+
+- title: "From Awareness to Practice: A Survey of US Users’ Privacy Perceptions in LLM Chatbots"
+  authors: "E. Gumusel, Y. Yan, E. Otenen"
+  venue: ""
+  year: 2026
+
+- title: "How Real and Imagined Audiences Shape the Ways We Remember and Retell Autobiographical Memories in the Digital Age"
+  authors: "E. Otenen"
+  venue: "PhD dissertation, Indiana University"
+  year: 2026
+  url: https://drive.google.com/file/d/1mXh44gSYNa_yomVyP1N-w_DagtF-9DHM/view?usp=share_link
+  selected: true
+
+- title: "How Do People Evaluate Their Interactions with AI: A Qualitative Study of Emotionally Motivated AI Use and User Evaluation"
+  authors: "E. Otenen, P. Jain, E. Stolterman"
+  venue: "International Conference on Human-Agent Interaction (HAI)"
+  year: 2025
+  selected: true
+
+- title: "Potentially Therapeutic Effects of Telling and Retelling Meaningful Life Stories"
+  authors: "E. Otenen, R. Cao, R. Martins, F. Breithaupt"
+  venue: "Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci)"
+  year: 2025
+  selected: true
+
+- title: "Designing for Unpleasant Memories: Investigating the Role of Technology in Reflective Practices"
+  authors: "E. Otenen"
+  venue: "Conference on Creativity and Cognition (C&C)"
+  year: 2025
+
+- title: "Exploring the Motivations and the Concerns Behind Self-Managed Medication Abortion Done by Purchasing Medication Online: Qualitative Interview Study With US Abortion Seekers"
+  authors: "C. Bosco, E. Otenen, P. C. Shih"
+  venue: "Journal of Medical Internet Research"
+  year: 2025
+
+- title: "Reddit as a Refuge for Managing Reproductive Rights in Post-Roe US"
+  authors: "C. Bosco, E. Otenen, P. C. Shih"
+  venue: "Companion Publication of CSCW"
+  year: 2025
+
+- title: "Designing a Multimodal and Culturally Relevant Alzheimer Disease and Related Dementia Generative Artificial Intelligence Tool for Black American Informal Caregivers"
+  authors: "C. Bosco, E. Otenen, J. Osorio Torres, V. Nguyen, D. Chheda, X. Peng, et al."
+  venue: "JMIR Aging"
+  year: 2025
+
+- title: "Humans Create More Novelty than ChatGPT When Asked to Retell a Story"
+  authors: "F. Breithaupt, E. Otenen, D. R. Wright, J. K. Kruschke, Y. Li, Y. Tan"
+  venue: "Scientific Reports"
+  year: 2024
+  selected: true
+
+- title: "Towards Designing for Multimodal Remembering: Findings from an Interview Study"
+  authors: "E. Otenen"
+  venue: "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems"
+  year: 2024
+  selected: true
+
+- title: "Developing Theory of Mind in Human and AI Interactions: A Perspective From Memory Technologies"
+  authors: "E. Otenen"
+  venue: "Workshop on Theory of Mind in Human-AI Interaction at CHI"
+  year: 2024
+
+- title: "Mechanisms Driving Online Vaccine Debate During the COVID-19 Pandemic"
+  authors: "O. C. Seckin, A. Atalay, E. Otenen, U. Duygu, O. Varol"
+  venue: "Social Media + Society"
+  year: 2024
+
+- title: "Locating Past and Future: The Influence of Spatial Ability on Memory of Items and Time"
+  authors: "E. Otenen, J. Kanero"
+  venue: "Current Psychology"
+  year: 2024
+
+- title: "Autobiographical Memory"
+  authors: "C. Aydin, E. Otenen, S. B. Tanis, Y. D. Şentürk"
+  venue: "The Palgrave Encyclopedia of Memory Studies"
+  year: 2024
+
+- title: "The Role of Gestures in Autobiographical Memory"
+  authors: "C. Aydin, T. Göksun, E. Otenen, S. B. Tanis, Y. D. Şentürk"
+  venue: "PLOS ONE"
+  year: 2023
+
+- title: "Exploring the Role of Visual Imagery in the Recall of Emotional Autobiographical Memories"
+  authors: "E. Otenen, C. Aydin"
+  venue: "Proceedings of the Annual Meeting of the Cognitive Science Society (CogSci)"
+  year: 2023

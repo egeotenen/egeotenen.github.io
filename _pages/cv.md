@@ -6,6 +6,7 @@ redirect_from:
   - /resume
 ---
 
+<div markdown="0">
 <div class="page-head">
 <h1>Curriculum Vitae</h1>
 <p class="role">Updated regularly. The PDF has the full list of publications, talks, teaching, and service.</p>
@@ -28,3 +29,4 @@ redirect_from:
 {% endfor %}
 </ul>
 </section>
+</div>

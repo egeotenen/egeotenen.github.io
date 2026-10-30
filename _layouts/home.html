@@ -35,21 +35,12 @@ layout: minimal
 </section>
 
 <section id="publications" aria-labelledby="pubs-h">
-  <h2 id="pubs-h">Selected publications <a href="{{ p.scholar }}" target="_blank" rel="noopener">All on Google Scholar →</a></h2>
-  {% assign pubs = site.data.publications %}
-  {% if pubs and pubs.size > 0 %}
+  <h2 id="pubs-h">Selected publications <a href="{{ '/publications/' | relative_url }}">All publications →</a></h2>
   <ul class="pubs">
-    {% for pub in pubs %}
-    <li>
-      <div class="pub-title">{% if pub.url %}<a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</div>
-      <div class="pub-meta">{{ pub.authors | replace: "Ege Otenen", '<span class="me">Ege Otenen</span>' | replace: "E. Otenen", '<span class="me">E. Otenen</span>' }} · <em>{{ pub.venue }}</em>, {{ pub.year }}</div>
-      {% if pub.pdf or pub.doi or pub.code %}<div class="pub-links">{% if pub.pdf %}<a href="{{ pub.pdf }}">PDF</a>{% endif %}{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}{% if pub.code %}<a href="{{ pub.code }}">Materials</a>{% endif %}</div>{% endif %}
-    </li>
-    {% endfor %}
+    {% for pub in site.data.publications %}{% if pub.selected %}
+    {% include pub.html pub=pub show_year=true %}
+    {% endif %}{% endfor %}
   </ul>
-  {% else %}
-  <p class="note">A full, up-to-date list of papers is on <a href="{{ p.scholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>
-  {% endif %}
 </section>
 
 <section id="news" aria-labelledby="news-h">

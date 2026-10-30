@@ -1,0 +1,5 @@
+<li>
+  <div class="pub-title">{% if include.pub.url %}<a href="{{ include.pub.url }}" target="_blank" rel="noopener">{{ include.pub.title }}</a>{% else %}{{ include.pub.title }}{% endif %}</div>
+  <div class="pub-meta">{{ include.pub.authors | replace: "E. Otenen", '<span class="me">E. Otenen</span>' }}{% if include.pub.venue and include.pub.venue != "" %} · <em>{{ include.pub.venue }}</em>{% endif %}{% if include.show_year %}, {{ include.pub.year }}{% endif %}</div>
+  {% if include.pub.pdf or include.pub.doi %}<div class="pub-links">{% if include.pub.pdf %}<a href="{{ include.pub.pdf }}">PDF</a>{% endif %}{% if include.pub.doi %}<a href="https://doi.org/{{ include.pub.doi }}">DOI</a>{% endif %}</div>{% endif %}
+</li>
