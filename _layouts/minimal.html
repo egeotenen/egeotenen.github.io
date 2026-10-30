@@ -27,7 +27,7 @@
   {"@context":"https://schema.org","@type":"Person","name":"Ege Otenen","jobTitle":"Postdoctoral Researcher","affiliation":{"@type":"Organization","name":"IT University of Copenhagen"},"url":"{{ site.url }}","sameAs":["https://scholar.google.com/citations?user=m7zQwMIAAAAJ","https://orcid.org/0000-0001-9887-5603","https://github.com/egeotenen","https://www.linkedin.com/in/ege-otenen-1a89b1149"]}
   </script>
 </head>
-<body>
+<body{% if page.layout == "home" %} data-ambient="1"{% endif %}>
   <a class="skip" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="wrap header-inner">
@@ -51,5 +51,6 @@
       <span>Copenhagen, Denmark</span>
     </div>
   </footer>
+  <script src="{{ '/assets/js/sparkle.js' | relative_url }}" defer></script>
 </body>
 </html>

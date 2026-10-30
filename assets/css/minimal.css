@@ -132,3 +132,6 @@ h2 a:hover { color: var(--accent); }
 /* Publications page */
 .year-group { padding-top: 2.75rem; }
 .year-group h2 { margin-bottom: 1.1rem; }
+
+/* Glow particles + cursor sparkles (assets/js/sparkle.js) */
+.fx-canvas { position: fixed; inset: 0; pointer-events: none; z-index: 50; }
