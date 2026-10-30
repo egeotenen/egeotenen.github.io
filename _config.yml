@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ege Otenen's Personal Webpage"
+title                    : "Ege Otenen"
 title_separator          : "-"
 name                     : &name "Ege Otenen"
 description              : &description "explorer of cognition"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "eotenen@iu.edu"
+    email                : "egeote@itu.dk"
   generatedFields:
     date:
       type               : "date"
@@ -83,12 +83,12 @@ author:
   name             : "Ege Otenen"
   avatar           : "https://raw.githubusercontent.com/egeotenen/egeotenen.github.io/master/images/ege.jpeg"
   
-  bio              : "Ph.D. CogSci & Informatics student at Indiana University "
-  location         : "Bloomington IN / USA "
-  employer         : "Indiana University"
+  bio              : "Postdoctoral Researcher, IT University of Copenhagen"
+  location         : "Copenhagen, Denmark"
+  employer         : "IT University of Copenhagen"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=m7zQwMIAAAAJ&hl=tr&oi=ao"
-  email            : "eotenen@iu.edu"
+  email            : "egeote@itu.dk"
   researchgate     :  
   uri              :
   bitbucket        :

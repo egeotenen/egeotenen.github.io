@@ -1,0 +1,12 @@
+# Selected publications, newest first. Leave the list empty ([]) to show only the Google Scholar link.
+# Your name is highlighted automatically when written as "Ege Otenen" or "E. Otenen".
+#
+# Example entry (copy, remove the leading "# ", and fill in):
+# - title: "Paper title"
+#   authors: "Ege Otenen, Co Author, Another Author"
+#   venue: "Proceedings of CHI"
+#   year: 2025
+#   url: https://doi.org/10.1145/xxxx      # link on the title (optional)
+#   pdf: /files/paper.pdf                  # optional
+#   doi: 10.1145/xxxx                      # optional
+[]

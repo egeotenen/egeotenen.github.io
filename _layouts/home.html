@@ -1,0 +1,77 @@
+---
+layout: minimal
+---
+{% assign p = site.data.profile %}
+<div class="intro">
+  <div>
+    <h1>{{ p.name }}</h1>
+    <p class="role">{{ p.role }}<br>{{ p.affiliation }}</p>
+  </div>
+  <img class="portrait" src="{{ p.photo | relative_url }}" alt="Portrait of {{ p.name }}" width="136" height="136">
+</div>
+
+{% if p.lede %}<p class="lede">{{ p.lede }}</p>{% endif %}
+
+<div class="prose">
+{{ content }}
+</div>
+
+<ul class="links">
+  {% for l in p.links %}<li><a href="{{ l.url }}"{% unless l.url contains 'mailto' or l.url == '/cv/' %} target="_blank" rel="noopener"{% endunless %}>{{ l.label }}</a></li>
+  {% endfor %}
+</ul>
+
+<section id="research" aria-labelledby="research-h">
+  <h2 id="research-h">Research</h2>
+  <div class="themes">
+    {% for t in site.data.research %}
+    <article class="theme">
+      <h3>{{ t.title }}</h3>
+      <p>{{ t.description }}</p>
+      {% if t.tags %}<ul class="tags">{% for tag in t.tags %}<li>{{ tag }}</li>{% endfor %}</ul>{% endif %}
+    </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="publications" aria-labelledby="pubs-h">
+  <h2 id="pubs-h">Selected publications <a href="{{ p.scholar }}" target="_blank" rel="noopener">All on Google Scholar →</a></h2>
+  {% assign pubs = site.data.publications %}
+  {% if pubs and pubs.size > 0 %}
+  <ul class="pubs">
+    {% for pub in pubs %}
+    <li>
+      <div class="pub-title">{% if pub.url %}<a href="{{ pub.url }}" target="_blank" rel="noopener">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</div>
+      <div class="pub-meta">{{ pub.authors | replace: "Ege Otenen", '<span class="me">Ege Otenen</span>' | replace: "E. Otenen", '<span class="me">E. Otenen</span>' }} · <em>{{ pub.venue }}</em>, {{ pub.year }}</div>
+      {% if pub.pdf or pub.doi or pub.code %}<div class="pub-links">{% if pub.pdf %}<a href="{{ pub.pdf }}">PDF</a>{% endif %}{% if pub.doi %}<a href="https://doi.org/{{ pub.doi }}">DOI</a>{% endif %}{% if pub.code %}<a href="{{ pub.code }}">Materials</a>{% endif %}</div>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="note">A full, up-to-date list of papers is on <a href="{{ p.scholar }}" target="_blank" rel="noopener">Google Scholar</a>.</p>
+  {% endif %}
+</section>
+
+<section id="news" aria-labelledby="news-h">
+  <h2 id="news-h">News</h2>
+  <ul class="dated">
+    {% for n in site.data.news limit: 6 %}
+    <li><span class="when">{{ n.date }}</span><span>{{ n.text }}</span></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="background" aria-labelledby="bg-h">
+  <h2 id="bg-h">Education</h2>
+  <ul class="dated">
+    {% for e in site.data.education %}
+    <li><span class="when">{{ e.year }}</span><span>{{ e.degree }}{% if e.link %} · <a href="{{ e.link }}" target="_blank" rel="noopener">{{ e.link_label }}</a>{% endif %}<span class="sub">{{ e.detail }}</span></span></li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section id="contact" class="contact" aria-labelledby="contact-h">
+  <h2 id="contact-h">Elsewhere &amp; contact</h2>
+  {% for x in p.elsewhere %}<p>{{ x }}</p>
+  {% endfor %}
+</section>

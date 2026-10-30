@@ -1,0 +1,26 @@
+# Edit the homepage header, links and contact text here.
+name: Ege Otenen
+role: Postdoctoral Researcher, IT University of Copenhagen
+affiliation: Affiliate, Pioneer Centre for AI · Psychology of Technology Institute
+photo: /images/ege.jpeg
+lede: Remembering is a dialogical process, shaped by the audiences we tell, both real and imagined.
+scholar: https://scholar.google.com/citations?user=m7zQwMIAAAAJ
+
+links:
+  - label: CV
+    url: /cv/
+  - label: Google Scholar
+    url: https://scholar.google.com/citations?user=m7zQwMIAAAAJ
+  - label: ORCID
+    url: https://orcid.org/0000-0001-9887-5603
+  - label: GitHub
+    url: https://github.com/egeotenen
+  - label: LinkedIn
+    url: https://www.linkedin.com/in/ege-otenen-1a89b1149
+  - label: Email
+    url: mailto:egeote@itu.dk
+
+elsewhere:
+  - 'I kept a <a href="https://sites.google.com/view/otenenege/2024-2025?authuser=0" target="_blank" rel="noopener">weekly research diary</a> throughout my PhD.'
+  - 'Interested in hosting a talk? Here is my <a href="https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=share_link" target="_blank" rel="noopener">research talk information</a>.'
+  - 'The best way to reach me is by <a href="mailto:egeote@itu.dk">email</a>. I am always happy to talk about memory, reflection, and the design of technologies that listen.'
