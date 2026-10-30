@@ -9,7 +9,6 @@ redirect_from:
 <div markdown="0">
 <div class="page-head">
 <h1>Curriculum Vitae</h1>
-<p class="role">Updated regularly. The PDF has the full list of publications, talks, teaching, and service.</p>
 </div>
 
 <p style="margin-top:2rem"><a class="button" href="https://drive.google.com/file/d/13zjRBxsA7dh16msCBnNLrMqLzDwaMAk0/view?usp=share_link" target="_blank" rel="noopener">View CV (PDF) ↗</a></p>
