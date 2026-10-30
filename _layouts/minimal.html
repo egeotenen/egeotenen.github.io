@@ -33,7 +33,7 @@
     <div class="wrap header-inner">
       <a class="brand" href="{{ '/' | relative_url }}"><span class="mark" aria-hidden="true">eö</span>Ege Otenen</a>
       <nav aria-label="Main">
-        <a href="{{ '/#research' | relative_url }}">Research</a>
+        {% if site.data.research and site.data.research.size > 0 %}<a href="{{ '/#research' | relative_url }}">Research</a>{% endif %}
         <a href="{{ '/#publications' | relative_url }}">Publications</a>
         <a href="{{ '/#news' | relative_url }}">News</a>
         <a href="{{ '/cv/' | relative_url }}"{% if page.url == '/cv/' %} aria-current="page"{% endif %}>CV</a>

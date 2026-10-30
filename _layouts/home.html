@@ -21,6 +21,7 @@ layout: minimal
   {% endfor %}
 </ul>
 
+{% if site.data.research and site.data.research.size > 0 %}
 <section id="research" aria-labelledby="research-h">
   <h2 id="research-h">Research</h2>
   <div class="themes">
@@ -33,6 +34,7 @@ layout: minimal
     {% endfor %}
   </div>
 </section>
+{% endif %}
 
 <section id="publications" aria-labelledby="pubs-h">
   <h2 id="pubs-h">Selected publications <a href="{{ '/publications/' | relative_url }}">All publications →</a></h2>

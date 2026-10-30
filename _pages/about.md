@@ -8,27 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi all, this is my personal webpage! I'm currently a Ph.D. student in the Cognitive Science and Informatics (HCI) dual degree program at Indiana University, Bloomington. I study how audiences shape the ways people remember and reflect on their autobiographical experiences, with a specific focus on how digital audiences (conversational AI agents or anonymous social media users) influence these processes.
- I am currently working with [Dr. Fritz Breithaupt](https://www.experimentalhumanities.com/people) on investigating cognitive mechanisms behind remembering and reflection, and working with [Dr. Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Dr. Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray) to understand the current technologies' influences on human relationships and well-being.
+I'm a postdoctoral researcher at the [IT University of Copenhagen](https://itu.dk) and an affiliate researcher at the [Pioneer Centre for Artificial Intelligence](https://www.aicentre.dk/) and the [Psychology of Technology Institute](https://www.psychoftech.org/). I study how audiences shape the ways we remember and reflect on our lives, and what changes when the listener is a conversational AI agent or an anonymous crowd on social media.
 
-I earned my Cognitive Psychology MSc degree at [Sabanci University](https://www.sabanciuniv.edu/). I have been working with [Dr. Cagla Aydin](https://fass.sabanciuniv.edu/en/faculty-members/detail/1980) at the CLAM Lab. And I have been a former member of [Varol Lab](https://varollab.com/) under the supervision of [Dr. Onur Varol](https://www.onurvarol.com/). 
+My work sits between cognitive psychology and human–computer interaction. With [Fritz Breithaupt](https://experimentalhumanities.com), I investigate the mechanisms behind personal narratives. With [Erik Stolterman Bergqvist](https://www.stoltermanbergqvist.com) and [Colin Gray](https://luddy.indiana.edu/contact/profile/index.html?Colin_Gray), I study how current technologies influence human relationships and well-being.
 
-I received my BSc in psychology from Middle East Technical University. During my undergraduate years, I contributed to several projects at METU Child and Adolescent Development Lab, PI: [Dr. Basak Sahin-Acar](https://psy.metu.edu.tr/en/basak-sahin-acar), METU Life Span Development Laboratory, PI: [Dr. Emre Selcuk](http://myweb.sabanciuniv.edu/emreselcuk/). I completed my internship at the [Center on Autobiographical Memory  Research, CON AMORE](https://psy.au.dk/en/research/research-centres-and-units/conamore/) under the supervision of [Dr. Annette Bohn](https://pure.au.dk/portal/en/persons/annette-bohn(63156000-0ce0-4610-b068-ee3354380b04).html) and [Dr. Muge Ozbek Akcay](https://scholar.google.dk/citations?user=iuB-cpUAAAAJ&hl=en). 
-
-I also write weekly diaries throughout my PhD, you can access it [here!](https://sites.google.com/view/otenenege/2024-2025?authuser=0)
-
-I am currently on job market, please see my research talk information [here!](https://drive.google.com/file/d/1hzgCF-Vf6PDnADboJiV5Oiv5T35mGTUt/view?usp=share_link)
-
-# Education
-* MSc in Cognitive Psychology, Sabanci University, 2022
-* BSc in Psychology, Middle East Technical University, 2020
-
-# Research Interests 
-* Autobiographical Memory
-* Reflection
-* Human-AI Interaction
-* Social Media
-* Well-being
-* Design
-* Theory of Mind
-
+I hold a PhD in Cognitive Science and Informatics (HCI) from Indiana University Bloomington, an MSc in Cognitive Psychology from [Sabancı University](https://www.sabanciuniv.edu/), and a BSc in Psychology from Middle East Technical University.
