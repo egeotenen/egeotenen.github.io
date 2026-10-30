@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title: ""
-description: "Ege Otenen is a postdoctoral researcher at the IT University of Copenhagen studying how audiences, human and artificial, shape the way people remember and reflect on their lives."
+description: "Ege Ötenen is a postdoctoral researcher at the IT University of Copenhagen studying how audiences, human and artificial, shape the way people remember and reflect on their lives."
 redirect_from:
   - /about/
   - /about.html
